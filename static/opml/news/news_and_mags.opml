@@ -2,11 +2,14 @@
 <opml xmlns:frss="https://freshrss.org/opml" version="2.0">
   <head>
     <title>FreshRSS</title>
-    <dateCreated>Sun, 25 Jun 2023 23:15:32 +0200</dateCreated>
+    <dateCreated>Fri, 30 Jun 2023 21:55:31 +0200</dateCreated>
   </head>
   <body>
-    <outline text="Other stuff">
+    <outline text="0 - Other stuff">
+      <outline text="Archaeological Headlines - Archaeology Magazine" type="rss" xmlUrl="https://www.archaeology.org/feed" htmlUrl="http://www.archaeology.org/feed" description=""/>
+      <outline text="Geography Directions" type="rss" xmlUrl="https://blog.geographydirections.com/feed/" htmlUrl="https://blog.geographydirections.com/" description="Geographical expertise applied to the issues that matter most"/>
       <outline text="Knowable Magazine" type="rss" xmlUrl="https://knowablemagazine.org/rss" htmlUrl="https://www.knowablemagazine.org/" description="Knowable Magazine is from Annual Reviews, a nonprofit publisher dedicated to synthesizing and integrating knowledge for the progress of science and the benefit of society."/>
+      <outline text="SAPIENS" type="rss" xmlUrl="https://www.sapiens.org/feed/" htmlUrl="https://www.sapiens.org/" description="Anthropology Magazine"/>
       <outline text="Universe Today" type="rss" xmlUrl="https://www.universetoday.com/feed/" htmlUrl="https://www.universetoday.com/" description="Space and astronomy news"/>
     </outline>
     <outline text="Ars Technica">
@@ -232,6 +235,20 @@
       <outline text="Superconductivity News - Physics News, Quantum Physics" type="rss" xmlUrl="https://phys.org/rss-feed/physics-news/superconductivity/" htmlUrl="https://phys.org/physics-news/superconductivity" description="The latest news on superconductivity"/>
       <outline text="Veterinary medicine news" type="rss" xmlUrl="https://phys.org/rss-feed/biology-news/veterinary-medicine/" htmlUrl="https://phys.org/biology-news/veterinary-medicine" description="Veterinary medicine news stories about diseases, disorders and injuries in non-human animals"/>
     </outline>
+    <outline text="Polygon">
+      <outline text="Polygon -  All" type="rss" xmlUrl="https://www.polygon.com/rss/index.xml" htmlUrl="https://www.polygon.com/" description=""/>
+      <outline text="Polygon -  Comics" type="rss" xmlUrl="https://www.polygon.com/rss/comics/index.xml" htmlUrl="https://www.polygon.com/comics" description=""/>
+      <outline text="Polygon -  Entertainment" type="rss" xmlUrl="https://www.polygon.com/rss/entertainment/index.xml" htmlUrl="https://www.polygon.com/entertainment" description=""/>
+      <outline text="Polygon -  Gaming" type="rss" xmlUrl="https://www.polygon.com/rss/gaming/index.xml" htmlUrl="https://www.polygon.com/gaming" description=""/>
+      <outline text="Polygon -  Movies" type="rss" xmlUrl="https://www.polygon.com/rss/movies/index.xml" htmlUrl="https://www.polygon.com/movies" description=""/>
+      <outline text="Polygon -  Nintendo" type="rss" xmlUrl="https://www.polygon.com/rss/nintendo/index.xml" htmlUrl="https://www.polygon.com/nintendo" description=""/>
+      <outline text="Polygon -  PC" type="rss" xmlUrl="https://www.polygon.com/rss/pc/index.xml" htmlUrl="https://www.polygon.com/pc" description=""/>
+      <outline text="Polygon -  PlayStation" type="rss" xmlUrl="https://www.polygon.com/rss/playstation/index.xml" htmlUrl="https://www.polygon.com/playstation" description=""/>
+      <outline text="Polygon -  Pokémon" type="rss" xmlUrl="https://www.polygon.com/rss/pokemon/index.xml" htmlUrl="https://www.polygon.com/pokemon" description=""/>
+      <outline text="Polygon -  Tabletop Games" type="rss" xmlUrl="https://www.polygon.com/rss/tabletop-games/index.xml" htmlUrl="https://www.polygon.com/tabletop-games" description=""/>
+      <outline text="Polygon -  TV" type="rss" xmlUrl="https://www.polygon.com/rss/tv/index.xml" htmlUrl="https://www.polygon.com/tv" description=""/>
+      <outline text="Polygon -  Xbox" type="rss" xmlUrl="https://www.polygon.com/rss/xbox/index.xml" htmlUrl="https://www.polygon.com/xbox" description=""/>
+    </outline>
     <outline text="Rock Paper Shotgun">
       <outline text="Deals | Rock Paper Shotgun" type="rss" xmlUrl="https://www.rockpapershotgun.com/feed/deals" htmlUrl="https://www.rockpapershotgun.com/feed/deals" description="The latest Deals from Rock Paper Shotgun."/>
       <outline text="Features | Rock Paper Shotgun" type="rss" xmlUrl="https://www.rockpapershotgun.com/feed/features" htmlUrl="https://www.rockpapershotgun.com/feed/features" description="The latest Features from Rock Paper Shotgun."/>
@@ -305,6 +322,16 @@
     </outline>
     <outline text="The Marshall Project">
       <outline text="The Marshall Project" type="rss" xmlUrl="https://www.themarshallproject.org/rss/recent.rss" htmlUrl="https://www.themarshallproject.org/" description="The Marshall Project is a nonprofit, nonpartisan news organization covering America's criminal justice system."/>
+    </outline>
+    <outline text="The New Yorker">
+      <outline text="Books Coverage: Essays and Criticism | The New Yorker" type="rss" xmlUrl="https://www.newyorker.com/feed/tag/books/rss" htmlUrl="https://www.newyorker.com/" description="A collection of the best writing on books by New Yorker writers and critics."/>
+      <outline text="Culture: TV, Movies, Music, Art, and Theatre News and Reviews | The New Yorker" type="rss" xmlUrl="https://www.newyorker.com/feed/culture" htmlUrl="https://www.newyorker.com/" description="Cultural news and criticism, and conversations about TV, theatre, movies, and music, as well as Goings On About Town listings from The New Yorker."/>
+      <outline text="Everything" type="rss" xmlUrl="https://www.newyorker.com/feed/everything" htmlUrl="https://www.newyorker.com/" description="Channel Description"/>
+      <outline text="Humor, Satire, and Cartoons | The New Yorker" type="rss" xmlUrl="https://www.newyorker.com/feed/humor" htmlUrl="https://www.newyorker.com/" description="Humor from The New Yorker, including news satire by Andy Borowitz, funny cartoons and comics, Daily Shouts, and Shouts &amp; Murmurs."/>
+      <outline text="Magazine | The New Yorker" type="rss" xmlUrl="https://www.newyorker.com/feed/magazine/rss" htmlUrl="https://www.newyorker.com/" description="Ava Kofman on penis enlargement, Peter Hessler on elementary schooling in China, Elizabeth Kolbert on the plastics plague, and more."/>
+      <outline text="News, Politics, Opinion, Commentary, and Analysis | The New Yorker" type="rss" xmlUrl="https://www.newyorker.com/feed/news" htmlUrl="https://www.newyorker.com/" description="In-depth reporting, commentary on breaking news, political analysis, and opinion from The New Yorker."/>
+      <outline text="News and Analysis from the Worlds of Business, Science, and Tech | The New Yorker" type="rss" xmlUrl="https://www.newyorker.com/feed/tech" htmlUrl="https://www.newyorker.com/" description="Analysis of the latest news in business, economics, science, and technology from The New Yorker."/>
+      <outline text="The Sporting Scene: Sports News and Analysis | The New Yorker" type="rss" xmlUrl="https://www.newyorker.com/feed/news/sporting-scene" htmlUrl="https://www.newyorker.com/" description="Dispatches from the world of sports—football, baseball, basketball, hockey, boxing, and more—from The New Yorker."/>
     </outline>
     <outline text="The Verge">
       <outline text="The Verge -  Apple Posts" type="rss" xmlUrl="https://www.theverge.com/apple/rss/index.xml" htmlUrl="https://www.theverge.com/apple" description=""/>
