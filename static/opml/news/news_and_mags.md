@@ -1,4 +1,4 @@
-# Feeds contained in the [news_and_mags.opml](https://github.com/mostlypixels/bringbackrss/blob/main/static/opml/news/news_and_mags.opml) file
+# Feeds contained in the [news_and_mags.opml](https://raw.githubusercontent.com/mostlypixels/bringbackrss/main/static/opml/news/news_and_mags.opml) file
 
 | Category | Url | Feed name |
 | ------------- | ------------- | ------------- |
