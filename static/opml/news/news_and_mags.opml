@@ -2,198 +2,276 @@
 <opml xmlns:frss="https://freshrss.org/opml" version="2.0">
   <head>
     <title>FreshRSS</title>
-    <dateCreated>Sat, 01 Jul 2023 14:08:29 +0200</dateCreated>
+    <dateCreated>Mon, 03 Jul 2023 21:35:25 +0200</dateCreated>
   </head>
   <body>
-    <outline text="0 - Other stuff">
+    <outline text="1 feed websites">
       <outline text="Archaeological Headlines - Archaeology Magazine" type="rss" xmlUrl="https://www.archaeology.org/feed" htmlUrl="http://www.archaeology.org/feed" description=""/>
-      <outline text="Geography Directions" type="rss" xmlUrl="https://blog.geographydirections.com/feed/" htmlUrl="https://blog.geographydirections.com/" description="Geographical expertise applied to the issues that matter most"/>
-      <outline text="Knowable Magazine" type="rss" xmlUrl="https://knowablemagazine.org/rss" htmlUrl="https://www.knowablemagazine.org/" description="Knowable Magazine is from Annual Reviews, a nonprofit publisher dedicated to synthesizing and integrating knowledge for the progress of science and the benefit of society."/>
-      <outline text="Nature" type="rss" xmlUrl="https://www.nature.com/nature.rss?error=cookies_not_supported&amp;code=d16150fc-5b12-4531-acf6-fdd9211831be" htmlUrl="http://feeds.nature.com/nature/rss/current" description="Nature is the foremost international weekly scientific journal in the world and is the flagship journal for Nature Portfolio. It publishes the finest peer-reviewed research in all fields of science and technology on the basis of its originality, importance, interdisciplinary interest, timeliness, accessibility, elegance and surprising conclusions. Nature publishes landmark papers, award winning news, leading comment and expert opinion on important, topical scientific news and events that enable readers to share the latest discoveries in science and evolve the discussion amongst the global scientific community."/>
-      <outline text="SAPIENS" type="rss" xmlUrl="https://www.sapiens.org/feed/" htmlUrl="https://www.sapiens.org/" description="Anthropology Magazine"/>
-      <outline text="Universe Today" type="rss" xmlUrl="https://www.universetoday.com/feed/" htmlUrl="https://www.universetoday.com/" description="Space and astronomy news"/>
+      <outline text="Geography Directions" type="rss" xmlUrl="https://blog.geographydirections.com/feed/" htmlUrl="https://blog.geographydirections.com/" description=""/>
+      <outline text="IFLScience" type="rss" xmlUrl="https://www.iflscience.com/rss/ifls-latest-rss.xml" htmlUrl="https://www.iflscience.com/rss/ifls-latest-rss.xml" description=""/>
+      <outline text="Knowable Magazine" type="rss" xmlUrl="https://knowablemagazine.org/rss" htmlUrl="https://www.knowablemagazine.org/" description=""/>
+      <outline text="Lapham's Quarterly" type="rss" xmlUrl="https://www.laphamsquarterly.org/rss.xml" htmlUrl="https://www.laphamsquarterly.org/" description=""/>
+      <outline text="Nature" type="rss" xmlUrl="https://www.nature.com/nature.rss?error=cookies_not_supported&amp;code=d16150fc-5b12-4531-acf6-fdd9211831be" htmlUrl="http://feeds.nature.com/nature/rss/current" description=""/>
+      <outline text="Quanta Magazine" type="rss" xmlUrl="https://api.quantamagazine.org/feed/" htmlUrl="https://www.quantamagazine.org" description=""/>
+      <outline text="SAPIENS" type="rss" xmlUrl="https://www.sapiens.org/feed/" htmlUrl="https://www.sapiens.org/" description=""/>
+      <outline text="TIME" type="rss" xmlUrl="https://time.com/feed/" htmlUrl="https://time.com/" description=""/>
     </outline>
     <outline text="Ars Technica">
-      <outline text="apple – Ars Technica" type="rss" xmlUrl="https://feeds.arstechnica.com/arstechnica/apple" htmlUrl="https://arstechnica.com/" description="Serving the Technologist for more than a decade. IT news, reviews, and analysis."/>
-      <outline text="Ars Cardboard – Ars Technica" type="rss" xmlUrl="https://feeds.arstechnica.com/arstechnica/cardboard" htmlUrl="https://arstechnica.com/" description="Serving the Technologist for more than a decade. IT news, reviews, and analysis."/>
-      <outline text="Ars Technica - All content" type="rss" xmlUrl="https://feeds.arstechnica.com/arstechnica/index" htmlUrl="https://arstechnica.com/" description="All Ars Technica stories"/>
-      <outline text="Biz &amp; IT – Ars Technica" type="rss" xmlUrl="https://feeds.arstechnica.com/arstechnica/technology-lab" htmlUrl="https://arstechnica.com/" description="Serving the Technologist for more than a decade. IT news, reviews, and analysis."/>
-      <outline text="Cars – Ars Technica" type="rss" xmlUrl="https://feeds.arstechnica.com/arstechnica/cars" htmlUrl="https://arstechnica.com/" description="Serving the Technologist for more than a decade. IT news, reviews, and analysis."/>
-      <outline text="Features – Ars Technica" type="rss" xmlUrl="https://feeds.arstechnica.com/arstechnica/features" htmlUrl="https://arstechnica.com/" description="Serving the Technologist for more than a decade. IT news, reviews, and analysis."/>
-      <outline text="Gaming – Ars Technica" type="rss" xmlUrl="https://feeds.arstechnica.com/arstechnica/gaming" htmlUrl="https://arstechnica.com/" description="Serving the Technologist for more than a decade. IT news, reviews, and analysis."/>
-      <outline text="Policy – Ars Technica" type="rss" xmlUrl="https://feeds.arstechnica.com/arstechnica/tech-policy" htmlUrl="https://arstechnica.com/" description="Serving the Technologist for more than a decade. IT news, reviews, and analysis."/>
-      <outline text="Science – Ars Technica" type="rss" xmlUrl="https://feeds.arstechnica.com/arstechnica/science" htmlUrl="https://arstechnica.com/" description="Serving the Technologist for more than a decade. IT news, reviews, and analysis."/>
-      <outline text="Staff – Ars Technica" type="rss" xmlUrl="https://feeds.arstechnica.com/arstechnica/staff-blogs" htmlUrl="https://arstechnica.com/" description="Serving the Technologist for more than a decade. IT news, reviews, and analysis."/>
-      <outline text="Tech – Ars Technica" type="rss" xmlUrl="https://feeds.arstechnica.com/arstechnica/gadgets" htmlUrl="https://arstechnica.com/" description="Serving the Technologist for more than a decade. IT news, reviews, and analysis."/>
+      <outline text="apple – Ars Technica" type="rss" xmlUrl="https://feeds.arstechnica.com/arstechnica/apple" htmlUrl="https://arstechnica.com/" description=""/>
+      <outline text="Ars Cardboard – Ars Technica" type="rss" xmlUrl="https://feeds.arstechnica.com/arstechnica/cardboard" htmlUrl="https://arstechnica.com/" description=""/>
+      <outline text="Ars Technica - All content" type="rss" xmlUrl="https://feeds.arstechnica.com/arstechnica/index" htmlUrl="https://arstechnica.com/" description=""/>
+      <outline text="Biz &amp; IT – Ars Technica" type="rss" xmlUrl="https://feeds.arstechnica.com/arstechnica/technology-lab" htmlUrl="https://arstechnica.com/" description=""/>
+      <outline text="Cars – Ars Technica" type="rss" xmlUrl="https://feeds.arstechnica.com/arstechnica/cars" htmlUrl="https://arstechnica.com/" description=""/>
+      <outline text="Features – Ars Technica" type="rss" xmlUrl="https://feeds.arstechnica.com/arstechnica/features" htmlUrl="https://arstechnica.com/" description=""/>
+      <outline text="Gaming – Ars Technica" type="rss" xmlUrl="https://feeds.arstechnica.com/arstechnica/gaming" htmlUrl="https://arstechnica.com/" description=""/>
+      <outline text="Policy – Ars Technica" type="rss" xmlUrl="https://feeds.arstechnica.com/arstechnica/tech-policy" htmlUrl="https://arstechnica.com/" description=""/>
+      <outline text="Science – Ars Technica" type="rss" xmlUrl="https://feeds.arstechnica.com/arstechnica/science" htmlUrl="https://arstechnica.com/" description=""/>
+      <outline text="Staff – Ars Technica" type="rss" xmlUrl="https://feeds.arstechnica.com/arstechnica/staff-blogs" htmlUrl="https://arstechnica.com/" description=""/>
+      <outline text="Tech – Ars Technica" type="rss" xmlUrl="https://feeds.arstechnica.com/arstechnica/gadgets" htmlUrl="https://arstechnica.com/" description=""/>
     </outline>
     <outline text="BBC">
-      <outline text="BBC News - Africa" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/world/africa/rss.xml" htmlUrl="https://www.bbc.co.uk/news/" description="BBC News - Africa"/>
-      <outline text="BBC News - Also in the News" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/also_in_the_news/rss.xml" htmlUrl="https://www.bbc.co.uk/news/" description="BBC News - Also in the News"/>
-      <outline text="BBC News - Asia" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/world/asia/rss.xml" htmlUrl="https://www.bbc.co.uk/news/" description="BBC News - Asia"/>
-      <outline text="BBC News - Business" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/business/rss.xml" htmlUrl="https://www.bbc.co.uk/news/" description="BBC News - Business"/>
-      <outline text="BBC News - England" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/england/rss.xml" htmlUrl="https://www.bbc.co.uk/news/" description="BBC News - England"/>
-      <outline text="BBC News - Entertainment &amp; Arts" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml" htmlUrl="https://www.bbc.co.uk/news/" description="BBC News - Entertainment &amp; Arts"/>
-      <outline text="BBC News - Europe" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/world/europe/rss.xml" htmlUrl="https://www.bbc.co.uk/news/" description="BBC News - Europe"/>
-      <outline text="BBC News - Family &amp; Education" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/education/rss.xml" htmlUrl="https://www.bbc.co.uk/news/" description="BBC News - Family &amp; Education"/>
-      <outline text="BBC News - Health" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/health/rss.xml" htmlUrl="https://www.bbc.co.uk/news/" description="BBC News - Health"/>
-      <outline text="BBC News - Home" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/rss.xml" htmlUrl="https://www.bbc.co.uk/news/" description="BBC News - Home"/>
-      <outline text="BBC News - Home (international)" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/rss.xml?edition=int" htmlUrl="https://www.bbc.co.uk/news/" description="BBC News - Home"/>
-      <outline text="BBC News - Home (UK)" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/rss.xml?edition=uk" htmlUrl="https://www.bbc.co.uk/news/" description="BBC News - Home"/>
-      <outline text="BBC News - Home (US)" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/rss.xml?edition=us" htmlUrl="https://www.bbc.co.uk/news/" description="BBC News - Home"/>
-      <outline text="BBC News - In Pictures" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/in_pictures/rss.xml" htmlUrl="https://www.bbc.co.uk/news/" description="BBC News - In Pictures"/>
-      <outline text="BBC News - Latin America &amp; Caribbean" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/world/latin_america/rss.xml" htmlUrl="https://www.bbc.co.uk/news/" description="BBC News - Latin America &amp; Caribbean"/>
-      <outline text="BBC News - Middle East" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/world/middle_east/rss.xml" htmlUrl="https://www.bbc.co.uk/news/" description="BBC News - Middle East"/>
-      <outline text="BBC News - Northern Ireland" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/northern_ireland/rss.xml" htmlUrl="https://www.bbc.co.uk/news/" description="BBC News - Northern Ireland"/>
-      <outline text="BBC News - Science &amp; Environment" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/science_and_environment/rss.xml" htmlUrl="https://www.bbc.co.uk/news/" description="BBC News - Science &amp; Environment"/>
-      <outline text="BBC News - Scotland" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/scotland/rss.xml" htmlUrl="https://www.bbc.co.uk/news/" description="BBC News - Scotland"/>
-      <outline text="BBC News - Stories" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/stories/rss.xml" htmlUrl="https://www.bbc.co.uk/news/" description="BBC News - Stories"/>
-      <outline text="BBC News - Technology" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/technology/rss.xml" htmlUrl="https://www.bbc.co.uk/news/" description="BBC News - Technology"/>
-      <outline text="BBC News - UK" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/uk/rss.xml" htmlUrl="https://www.bbc.co.uk/news/" description="BBC News - UK"/>
-      <outline text="BBC News - UK Politics" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/politics/rss.xml" htmlUrl="https://www.bbc.co.uk/news/" description="BBC News - UK Politics"/>
-      <outline text="BBC News - US &amp; Canada" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml" htmlUrl="https://www.bbc.co.uk/news/" description="BBC News - US &amp; Canada"/>
-      <outline text="BBC News - Wales" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/wales/rss.xml" htmlUrl="https://www.bbc.co.uk/news/" description="BBC News - Wales"/>
-      <outline text="BBC News - World" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/world/rss.xml" htmlUrl="https://www.bbc.co.uk/news/" description="BBC News - World"/>
-      <outline text="BBC News - Your Coronavirus Stories" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/have_your_say/rss.xml" htmlUrl="https://www.bbc.co.uk/news/" description="BBC News - Your Coronavirus Stories"/>
+      <outline text="BBC News - Africa" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/world/africa/rss.xml" htmlUrl="https://www.bbc.co.uk/news/" description=""/>
+      <outline text="BBC News - Also in the News" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/also_in_the_news/rss.xml" htmlUrl="https://www.bbc.co.uk/news/" description=""/>
+      <outline text="BBC News - Asia" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/world/asia/rss.xml" htmlUrl="https://www.bbc.co.uk/news/" description=""/>
+      <outline text="BBC News - Business" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/business/rss.xml" htmlUrl="https://www.bbc.co.uk/news/" description=""/>
+      <outline text="BBC News - England" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/england/rss.xml" htmlUrl="https://www.bbc.co.uk/news/" description=""/>
+      <outline text="BBC News - Entertainment &amp; Arts" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml" htmlUrl="https://www.bbc.co.uk/news/" description=""/>
+      <outline text="BBC News - Europe" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/world/europe/rss.xml" htmlUrl="https://www.bbc.co.uk/news/" description=""/>
+      <outline text="BBC News - Family &amp; Education" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/education/rss.xml" htmlUrl="https://www.bbc.co.uk/news/" description=""/>
+      <outline text="BBC News - Health" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/health/rss.xml" htmlUrl="https://www.bbc.co.uk/news/" description=""/>
+      <outline text="BBC News - Home" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/rss.xml" htmlUrl="https://www.bbc.co.uk/news/" description=""/>
+      <outline text="BBC News - Home (international)" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/rss.xml?edition=int" htmlUrl="https://www.bbc.co.uk/news/" description=""/>
+      <outline text="BBC News - Home (UK)" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/rss.xml?edition=uk" htmlUrl="https://www.bbc.co.uk/news/" description=""/>
+      <outline text="BBC News - Home (US)" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/rss.xml?edition=us" htmlUrl="https://www.bbc.co.uk/news/" description=""/>
+      <outline text="BBC News - In Pictures" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/in_pictures/rss.xml" htmlUrl="https://www.bbc.co.uk/news/" description=""/>
+      <outline text="BBC News - Latin America &amp; Caribbean" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/world/latin_america/rss.xml" htmlUrl="https://www.bbc.co.uk/news/" description=""/>
+      <outline text="BBC News - Middle East" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/world/middle_east/rss.xml" htmlUrl="https://www.bbc.co.uk/news/" description=""/>
+      <outline text="BBC News - Northern Ireland" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/northern_ireland/rss.xml" htmlUrl="https://www.bbc.co.uk/news/" description=""/>
+      <outline text="BBC News - Science &amp; Environment" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/science_and_environment/rss.xml" htmlUrl="https://www.bbc.co.uk/news/" description=""/>
+      <outline text="BBC News - Scotland" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/scotland/rss.xml" htmlUrl="https://www.bbc.co.uk/news/" description=""/>
+      <outline text="BBC News - Stories" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/stories/rss.xml" htmlUrl="https://www.bbc.co.uk/news/" description=""/>
+      <outline text="BBC News - Technology" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/technology/rss.xml" htmlUrl="https://www.bbc.co.uk/news/" description=""/>
+      <outline text="BBC News - UK" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/uk/rss.xml" htmlUrl="https://www.bbc.co.uk/news/" description=""/>
+      <outline text="BBC News - UK Politics" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/politics/rss.xml" htmlUrl="https://www.bbc.co.uk/news/" description=""/>
+      <outline text="BBC News - US &amp; Canada" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml" htmlUrl="https://www.bbc.co.uk/news/" description=""/>
+      <outline text="BBC News - Wales" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/wales/rss.xml" htmlUrl="https://www.bbc.co.uk/news/" description=""/>
+      <outline text="BBC News - World" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/world/rss.xml" htmlUrl="https://www.bbc.co.uk/news/" description=""/>
+      <outline text="BBC News - Your Coronavirus Stories" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/have_your_say/rss.xml" htmlUrl="https://www.bbc.co.uk/news/" description=""/>
     </outline>
     <outline text="Euronews">
-      <outline text="Biztech-news | Euronews RSS" type="rss" xmlUrl="https://www.euronews.com/rss?format=mrss&amp;level=theme&amp;name=biztech-news" htmlUrl="https://www.euronews.com/" description="Latest news from Euronews"/>
-      <outline text="Business | Euronews RSS" type="rss" xmlUrl="https://www.euronews.com/rss?format=mrss&amp;level=theme&amp;name=business" htmlUrl="https://www.euronews.com/" description="Latest news from Euronews"/>
-      <outline text="Culture | Euronews RSS" type="rss" xmlUrl="https://www.euronews.com/rss?format=mrss&amp;level=vertical&amp;name=culture" htmlUrl="https://www.euronews.com/" description="Latest news from Euronews"/>
-      <outline text="Green | Euronews RSS" type="rss" xmlUrl="https://www.euronews.com/rss?format=mrss&amp;level=vertical&amp;name=green" htmlUrl="https://www.euronews.com/" description="Latest news from Euronews"/>
-      <outline text="Latest News From Euronews | Euronews RSS" type="rss" xmlUrl="https://www.euronews.com/rss" htmlUrl="https://www.euronews.com/" description="Latest news from Euronews"/>
-      <outline text="My-europe | Euronews RSS" type="rss" xmlUrl="https://www.euronews.com/rss?format=mrss&amp;level=vertical&amp;name=my-europe" htmlUrl="https://www.euronews.com/" description="Latest news from Euronews"/>
-      <outline text="News | Euronews RSS" type="rss" xmlUrl="https://www.euronews.com/rss?format=mrss&amp;level=theme&amp;name=news" htmlUrl="https://www.euronews.com/" description="Latest news from Euronews"/>
-      <outline text="Next | Euronews RSS" type="rss" xmlUrl="https://www.euronews.com/rss?format=mrss&amp;level=vertical&amp;name=next" htmlUrl="https://www.euronews.com/" description="Latest news from Euronews"/>
-      <outline text="No Comment | Euronews RSS" type="rss" xmlUrl="https://www.euronews.com/rss?format=mrss&amp;level=program&amp;name=nocomment" htmlUrl="https://www.euronews.com/" description="Latest news from Euronews"/>
-      <outline text="Sport | Euronews RSS" type="rss" xmlUrl="https://www.euronews.com/rss?format=mrss&amp;level=theme&amp;name=sport" htmlUrl="https://www.euronews.com/" description="Latest news from Euronews"/>
+      <outline text="Biztech-news | Euronews RSS" type="rss" xmlUrl="https://www.euronews.com/rss" htmlUrl="https://www.euronews.com/" description=""/>
+      <outline text="Business | Euronews RSS" type="rss" xmlUrl="https://www.euronews.com/rss?format=mrss&amp;level=theme&amp;name=business" htmlUrl="https://www.euronews.com/" description=""/>
+      <outline text="Culture | Euronews RSS" type="rss" xmlUrl="https://www.euronews.com/rss?format=mrss&amp;level=vertical&amp;name=culture" htmlUrl="https://www.euronews.com/" description=""/>
+      <outline text="Green | Euronews RSS" type="rss" xmlUrl="https://www.euronews.com/rss?format=mrss&amp;level=vertical&amp;name=green" htmlUrl="https://www.euronews.com/" description=""/>
+      <outline text="Latest News From Euronews | Euronews RSS" type="rss" xmlUrl="https://www.euronews.com/rss" htmlUrl="https://www.euronews.com/" description=""/>
+      <outline text="My-europe | Euronews RSS" type="rss" xmlUrl="https://www.euronews.com/rss?format=mrss&amp;level=vertical&amp;name=my-europe" htmlUrl="https://www.euronews.com/" description=""/>
+      <outline text="News | Euronews RSS" type="rss" xmlUrl="https://www.euronews.com/rss?format=mrss&amp;level=theme&amp;name=news" htmlUrl="https://www.euronews.com/" description=""/>
+      <outline text="Next | Euronews RSS" type="rss" xmlUrl="https://www.euronews.com/rss?format=mrss&amp;level=vertical&amp;name=next" htmlUrl="https://www.euronews.com/" description=""/>
+      <outline text="No Comment | Euronews RSS" type="rss" xmlUrl="https://www.euronews.com/rss?format=mrss&amp;level=program&amp;name=nocomment" htmlUrl="https://www.euronews.com/" description=""/>
+      <outline text="Sport | Euronews RSS" type="rss" xmlUrl="https://www.euronews.com/rss?format=mrss&amp;level=theme&amp;name=sport" htmlUrl="https://www.euronews.com/" description=""/>
+    </outline>
+    <outline text="FiveThirtyEight">
+      <outline text="Features Feed" type="rss" xmlUrl="https://fivethirtyeight.com/features/feed/" htmlUrl="https://fivethirtyeight.com" description=""/>
+      <outline text="FiveThirtyEight Podcasts Feed" type="rss" xmlUrl="https://fivethirtyeight.com/tag/fivethirtyeight-podcasts/feed/" htmlUrl="https://fivethirtyeight.com" description=""/>
+      <outline text="Politics Feed" type="rss" xmlUrl="https://fivethirtyeight.com/politics/feed/" htmlUrl="https://fivethirtyeight.com" description=""/>
+      <outline text="Science &amp; Health Feed" type="rss" xmlUrl="https://fivethirtyeight.com/science/feed/" htmlUrl="https://fivethirtyeight.com" description=""/>
+      <outline text="Sports Feed" type="rss" xmlUrl="https://fivethirtyeight.com/sports/feed/" htmlUrl="https://fivethirtyeight.com" description=""/>
+      <outline text="Videos Feed" type="rss" xmlUrl="https://fivethirtyeight.com/videos/feed/" htmlUrl="https://fivethirtyeight.com" description=""/>
+    </outline>
+    <outline text="Hakai Magazine">
+      <outline text="Features – Hakai Magazine" type="rss" xmlUrl="https://hakaimagazine.com/features/feed/" htmlUrl="https://hakaimagazine.com/" description=""/>
+      <outline text="Hakai Magazine" type="rss" xmlUrl="https://hakaimagazine.com/feed/" htmlUrl="https://hakaimagazine.com/" description=""/>
+      <outline text="Hakai Magazine » Anthropology Scientific Field/Discipline Feed" type="rss" xmlUrl="https://hakaimagazine.com/discipline/anthropology/feed/" htmlUrl="https://hakaimagazine.com" description=""/>
+      <outline text="Hakai Magazine » Archaeology Scientific Field/Discipline Feed" type="rss" xmlUrl="https://hakaimagazine.com/discipline/archaeology/feed/" htmlUrl="https://hakaimagazine.com" description=""/>
+      <outline text="Hakai Magazine » Biology Scientific Field/Discipline Feed" type="rss" xmlUrl="https://hakaimagazine.com/discipline/biology/feed/" htmlUrl="https://hakaimagazine.com" description=""/>
+      <outline text="Hakai Magazine » Botany Scientific Field/Discipline Feed" type="rss" xmlUrl="https://hakaimagazine.com/discipline/botany/feed/" htmlUrl="https://hakaimagazine.com" description=""/>
+      <outline text="Hakai Magazine » Chemistry Scientific Field/Discipline Feed" type="rss" xmlUrl="https://hakaimagazine.com/discipline/chemistry/feed/" htmlUrl="https://hakaimagazine.com" description=""/>
+      <outline text="Hakai Magazine » Earth Science Scientific Field/Discipline Feed" type="rss" xmlUrl="https://hakaimagazine.com/discipline/earth-science/feed/" htmlUrl="https://hakaimagazine.com" description=""/>
+      <outline text="Hakai Magazine » Ecology Scientific Field/Discipline Feed" type="rss" xmlUrl="https://hakaimagazine.com/discipline/ecology/feed/" htmlUrl="https://hakaimagazine.com" description=""/>
+      <outline text="Hakai Magazine » Engineering Scientific Field/Discipline Feed" type="rss" xmlUrl="https://hakaimagazine.com/discipline/engineering/feed/" htmlUrl="https://hakaimagazine.com" description=""/>
+      <outline text="Hakai Magazine » Geography Scientific Field/Discipline Feed" type="rss" xmlUrl="https://hakaimagazine.com/discipline/geography/feed/" htmlUrl="https://hakaimagazine.com" description=""/>
+      <outline text="Hakai Magazine » Geology Scientific Field/Discipline Feed" type="rss" xmlUrl="https://hakaimagazine.com/discipline/geology/feed/" htmlUrl="https://hakaimagazine.com" description=""/>
+      <outline text="Hakai Magazine » Human Biology Scientific Field/Discipline Feed" type="rss" xmlUrl="https://hakaimagazine.com/discipline/human-biology/feed/" htmlUrl="https://hakaimagazine.com" description=""/>
+      <outline text="Hakai Magazine » Medicine Scientific Field/Discipline Feed" type="rss" xmlUrl="https://hakaimagazine.com/discipline/medicine/feed/" htmlUrl="https://hakaimagazine.com" description=""/>
+      <outline text="Hakai Magazine » Meteorology Scientific Field/Discipline Feed" type="rss" xmlUrl="https://hakaimagazine.com/discipline/meteorology/feed/" htmlUrl="https://hakaimagazine.com" description=""/>
+      <outline text="Hakai Magazine » Microbiology Scientific Field/Discipline Feed" type="rss" xmlUrl="https://hakaimagazine.com/discipline/microbiology/feed/" htmlUrl="https://hakaimagazine.com" description=""/>
+      <outline text="Hakai Magazine » Oceanography Scientific Field/Discipline Feed" type="rss" xmlUrl="https://hakaimagazine.com/discipline/oceanography/feed/" htmlUrl="https://hakaimagazine.com" description=""/>
+      <outline text="Hakai Magazine » Paleontology Scientific Field/Discipline Feed" type="rss" xmlUrl="https://hakaimagazine.com/discipline/paleontology/feed/" htmlUrl="https://hakaimagazine.com" description=""/>
+      <outline text="Hakai Magazine » Physics Scientific Field/Discipline Feed" type="rss" xmlUrl="https://hakaimagazine.com/discipline/physics/feed/" htmlUrl="https://hakaimagazine.com" description=""/>
+      <outline text="Hakai Magazine » Psychology Scientific Field/Discipline Feed" type="rss" xmlUrl="https://hakaimagazine.com/discipline/psychology/feed/" htmlUrl="https://hakaimagazine.com" description=""/>
+      <outline text="Hakai Magazine » Zoology Scientific Field/Discipline Feed" type="rss" xmlUrl="https://hakaimagazine.com/discipline/zoology/feed/" htmlUrl="https://hakaimagazine.com" description=""/>
+      <outline text="News &amp; Views – Hakai Magazine" type="rss" xmlUrl="https://hakaimagazine.com/news/feed/" htmlUrl="https://hakaimagazine.com/" description=""/>
     </outline>
     <outline text="Inverse">
-      <outline text="Amplifying our voices | Inverse" type="rss" xmlUrl="https://www.inverse.com/rss/amplifying-our-voices" htmlUrl="https://www.inverse.com/" description="Inverse covers the latest news on science, innovation, entertainment, technology and culture by asking: What could happen next?"/>
-      <outline text="Entertainment | Inverse" type="rss" xmlUrl="https://www.inverse.com/rss/entertainment" htmlUrl="https://www.inverse.com/" description="Inverse covers the latest news on science, innovation, entertainment, technology and culture by asking: What could happen next?"/>
-      <outline text="Gaming news | Inverse" type="rss" xmlUrl="https://www.inverse.com/rss/gaming-news" htmlUrl="https://www.inverse.com/" description="Inverse covers the latest news on science, innovation, entertainment, technology and culture by asking: What could happen next?"/>
-      <outline text="Gaming | Inverse" type="rss" xmlUrl="https://www.inverse.com/rss/gaming" htmlUrl="https://www.inverse.com/" description="Inverse covers the latest news on science, innovation, entertainment, technology and culture by asking: What could happen next?"/>
-      <outline text="Innovation | Inverse" type="rss" xmlUrl="https://www.inverse.com/rss/innovation" htmlUrl="https://www.inverse.com/" description="Inverse covers the latest news on science, innovation, entertainment, technology and culture by asking: What could happen next?"/>
-      <outline text="Inverse" type="rss" xmlUrl="https://www.inverse.com/rss" htmlUrl="https://www.inverse.com/" description="Inverse covers the latest news on science, innovation, entertainment, technology and culture by asking: What could happen next?"/>
-      <outline text="Mind &amp; Body | Inverse" type="rss" xmlUrl="https://www.inverse.com/rss/mind-body" htmlUrl="https://www.inverse.com/" description="Inverse covers the latest news on science, innovation, entertainment, technology and culture by asking: What could happen next?"/>
-      <outline text="Science | Inverse" type="rss" xmlUrl="https://www.inverse.com/rss/science" htmlUrl="https://www.inverse.com/" description="Inverse covers the latest news on science, innovation, entertainment, technology and culture by asking: What could happen next?"/>
-      <outline text="Space | Inverse" type="rss" xmlUrl="https://www.inverse.com/rss/space" htmlUrl="https://www.inverse.com/" description="Inverse covers the latest news on science, innovation, entertainment, technology and culture by asking: What could happen next?"/>
-      <outline text="Sustainability | Inverse" type="rss" xmlUrl="https://www.inverse.com/rss/sustainability" htmlUrl="https://www.inverse.com/" description="Inverse covers the latest news on science, innovation, entertainment, technology and culture by asking: What could happen next?"/>
-      <outline text="Technology | Inverse" type="rss" xmlUrl="https://www.inverse.com/rss/technology" htmlUrl="https://www.inverse.com/" description="Inverse covers the latest news on science, innovation, entertainment, technology and culture by asking: What could happen next?"/>
-      <outline text="Transportation | Inverse" type="rss" xmlUrl="https://www.inverse.com/rss/transportation" htmlUrl="https://www.inverse.com/" description="Inverse covers the latest news on science, innovation, entertainment, technology and culture by asking: What could happen next?"/>
+      <outline text="Amplifying our voices | Inverse" type="rss" xmlUrl="https://www.inverse.com/rss/amplifying-our-voices" htmlUrl="https://www.inverse.com/" description=""/>
+      <outline text="Entertainment | Inverse" type="rss" xmlUrl="https://www.inverse.com/rss/entertainment" htmlUrl="https://www.inverse.com/" description=""/>
+      <outline text="Gaming news | Inverse" type="rss" xmlUrl="https://www.inverse.com/rss/gaming-news" htmlUrl="https://www.inverse.com/" description=""/>
+      <outline text="Gaming | Inverse" type="rss" xmlUrl="https://www.inverse.com/rss/gaming" htmlUrl="https://www.inverse.com/" description=""/>
+      <outline text="Innovation | Inverse" type="rss" xmlUrl="https://www.inverse.com/rss/innovation" htmlUrl="https://www.inverse.com/" description=""/>
+      <outline text="Inverse" type="rss" xmlUrl="https://www.inverse.com/rss" htmlUrl="https://www.inverse.com/" description=""/>
+      <outline text="Mind &amp; Body | Inverse" type="rss" xmlUrl="https://www.inverse.com/rss/mind-body" htmlUrl="https://www.inverse.com/" description=""/>
+      <outline text="Science | Inverse" type="rss" xmlUrl="https://www.inverse.com/rss/science" htmlUrl="https://www.inverse.com/" description=""/>
+      <outline text="Space | Inverse" type="rss" xmlUrl="https://www.inverse.com/rss/space" htmlUrl="https://www.inverse.com/" description=""/>
+      <outline text="Sustainability | Inverse" type="rss" xmlUrl="https://www.inverse.com/rss/sustainability" htmlUrl="https://www.inverse.com/" description=""/>
+      <outline text="Technology | Inverse" type="rss" xmlUrl="https://www.inverse.com/rss/technology" htmlUrl="https://www.inverse.com/" description=""/>
+      <outline text="Transportation | Inverse" type="rss" xmlUrl="https://www.inverse.com/rss/transportation" htmlUrl="https://www.inverse.com/" description=""/>
     </outline>
     <outline text="JSTOR Daily">
-      <outline text="Art &amp; Art History Archives - JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/category/arts/art-art-history/feed/" htmlUrl="https://daily.jstor.org/category/arts/art-art-history/" description="where news meets its scholarly match"/>
-      <outline text="Arts &amp; Culture Archives - JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/category/arts/feed/" htmlUrl="https://daily.jstor.org/category/arts/" description="where news meets its scholarly match"/>
-      <outline text="Business &amp; Economics Archives - JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/category/business/feed/" htmlUrl="https://daily.jstor.org/category/business/" description="where news meets its scholarly match"/>
-      <outline text="Business Archives - JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/category/business/business-business/feed/" htmlUrl="https://daily.jstor.org/category/business/business-business/" description="where news meets its scholarly match"/>
-      <outline text="Economics Archives - JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/category/business/economics/feed/" htmlUrl="https://daily.jstor.org/category/business/economics/" description="where news meets its scholarly match"/>
-      <outline text="Education &amp; Society Archives - JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/category/education-and-society/feed/" htmlUrl="https://daily.jstor.org/category/education-and-society/" description="where news meets its scholarly match"/>
-      <outline text="Education Archives - JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/category/education-and-society/education/feed/" htmlUrl="https://daily.jstor.org/category/education-and-society/education/" description="where news meets its scholarly match"/>
-      <outline text="Film &amp; Media Archives - JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/category/arts/film-media/feed/" htmlUrl="https://daily.jstor.org/category/arts/film-media/" description="where news meets its scholarly match"/>
-      <outline text="Further Reading Archives - JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/category/further-reading/feed/" htmlUrl="https://daily.jstor.org/category/further-reading/" description="where news meets its scholarly match"/>
-      <outline text="Health Archives - JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/category/science/health/feed/" htmlUrl="https://daily.jstor.org/category/science/health/" description="where news meets its scholarly match"/>
-      <outline text="Interviews Archives - JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/category/interviews/feed/" htmlUrl="https://daily.jstor.org/category/interviews/" description="where news meets its scholarly match"/>
-      <outline text="JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/feed/" htmlUrl="https://daily.jstor.org/" description="where news meets its scholarly match"/>
-      <outline text="Language &amp; Literature Archives - JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/category/arts/language-literature/feed/" htmlUrl="https://daily.jstor.org/category/arts/language-literature/" description="where news meets its scholarly match"/>
-      <outline text="Lifestyle Archives - JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/category/education-and-society/lifestyle/feed/" htmlUrl="https://daily.jstor.org/category/education-and-society/lifestyle/" description="where news meets its scholarly match"/>
-      <outline text="Mathematics Archives - JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/category/science/mathematics/feed/" htmlUrl="https://daily.jstor.org/category/science/mathematics/" description="where news meets its scholarly match"/>
-      <outline text="Natural Science Archives - JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/category/science/naturalscience/feed/" htmlUrl="https://daily.jstor.org/category/science/naturalscience/" description="where news meets its scholarly match"/>
-      <outline text="Performing Arts Archives - JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/category/arts/performing-arts/feed/" htmlUrl="https://daily.jstor.org/category/arts/performing-arts/" description="where news meets its scholarly match"/>
-      <outline text="Philosophy Archives - JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/category/education-and-society/philosophy/feed/" htmlUrl="https://daily.jstor.org/category/education-and-society/philosophy/" description="where news meets its scholarly match"/>
-      <outline text="Plants &amp; Animals Archives - JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/category/science/plantsanimals/feed/" htmlUrl="https://daily.jstor.org/category/science/plantsanimals/" description="where news meets its scholarly match"/>
-      <outline text="Politics &amp; Government Archives - JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/category/politics/politics-government/feed/" htmlUrl="https://daily.jstor.org/category/politics/politics-government/" description="where news meets its scholarly match"/>
-      <outline text="Politics &amp; History Archives - JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/category/politics/feed/" htmlUrl="https://daily.jstor.org/category/politics/" description="where news meets its scholarly match"/>
-      <outline text="Quirky History Archives - JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/category/politics/quirky-history/feed/" htmlUrl="https://daily.jstor.org/category/politics/quirky-history/" description="where news meets its scholarly match"/>
-      <outline text="Religion Archives - JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/category/education-and-society/religion/feed/" htmlUrl="https://daily.jstor.org/category/education-and-society/religion/" description="where news meets its scholarly match"/>
-      <outline text="Science &amp; Technology Archives - JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/category/science/feed/" htmlUrl="https://daily.jstor.org/category/science/" description="where news meets its scholarly match"/>
-      <outline text="Science &amp; Technology Archives - JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/category/science/feed" htmlUrl="https://daily.jstor.org/category/science/" description="where news meets its scholarly match"/>
-      <outline text="Social History Archives - JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/category/politics/social-history/feed/" htmlUrl="https://daily.jstor.org/category/politics/social-history/" description="where news meets its scholarly match"/>
-      <outline text="Social Sciences Archives - JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/category/education-and-society/social-sciences/feed/" htmlUrl="https://daily.jstor.org/category/education-and-society/social-sciences/" description="where news meets its scholarly match"/>
-      <outline text="Suggested Readings Archives - JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/category/suggested-readings/feed/" htmlUrl="https://daily.jstor.org/category/suggested-readings/" description="where news meets its scholarly match"/>
-      <outline text="Sustainability &amp; The Environment Archives - JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/category/science/sustainability/feed/" htmlUrl="https://daily.jstor.org/category/science/sustainability/" description="where news meets its scholarly match"/>
-      <outline text="Technology Archives - JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/category/science/technology/feed/" htmlUrl="https://daily.jstor.org/category/science/technology/" description="where news meets its scholarly match"/>
-      <outline text="U.S. History Archives - JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/category/politics/us-history/feed/" htmlUrl="https://daily.jstor.org/category/politics/us-history/" description="where news meets its scholarly match"/>
-      <outline text="World History Archives - JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/category/politics/world-history/feed/" htmlUrl="https://daily.jstor.org/category/politics/world-history/" description="where news meets its scholarly match"/>
+      <outline text="Art &amp; Art History Archives - JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/category/arts/art-art-history/feed/" htmlUrl="https://daily.jstor.org/category/arts/art-art-history/" description=""/>
+      <outline text="Arts &amp; Culture Archives - JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/category/arts/feed/" htmlUrl="https://daily.jstor.org/category/arts/" description=""/>
+      <outline text="Business &amp; Economics Archives - JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/category/business/feed/" htmlUrl="https://daily.jstor.org/category/business/" description=""/>
+      <outline text="Business Archives - JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/category/business/business-business/feed/" htmlUrl="https://daily.jstor.org/category/business/business-business/" description=""/>
+      <outline text="Economics Archives - JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/category/business/economics/feed/" htmlUrl="https://daily.jstor.org/category/business/economics/" description=""/>
+      <outline text="Education &amp; Society Archives - JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/category/education-and-society/feed/" htmlUrl="https://daily.jstor.org/category/education-and-society/" description=""/>
+      <outline text="Education Archives - JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/category/education-and-society/education/feed/" htmlUrl="https://daily.jstor.org/category/education-and-society/education/" description=""/>
+      <outline text="Film &amp; Media Archives - JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/category/arts/film-media/feed/" htmlUrl="https://daily.jstor.org/category/arts/film-media/" description=""/>
+      <outline text="Health Archives - JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/category/science/health/feed/" htmlUrl="https://daily.jstor.org/category/science/health/" description=""/>
+      <outline text="Interviews Archives - JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/category/interviews/feed/" htmlUrl="https://daily.jstor.org/category/interviews/" description=""/>
+      <outline text="JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/feed/" htmlUrl="https://daily.jstor.org/" description=""/>
+      <outline text="Language &amp; Literature Archives - JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/category/arts/language-literature/feed/" htmlUrl="https://daily.jstor.org/category/arts/language-literature/" description=""/>
+      <outline text="Lifestyle Archives - JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/category/education-and-society/lifestyle/feed/" htmlUrl="https://daily.jstor.org/category/education-and-society/lifestyle/" description=""/>
+      <outline text="Mathematics Archives - JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/category/science/mathematics/feed/" htmlUrl="https://daily.jstor.org/category/science/mathematics/" description=""/>
+      <outline text="Natural Science Archives - JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/category/science/naturalscience/feed/" htmlUrl="https://daily.jstor.org/category/science/naturalscience/" description=""/>
+      <outline text="Performing Arts Archives - JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/category/arts/performing-arts/feed/" htmlUrl="https://daily.jstor.org/category/arts/performing-arts/" description=""/>
+      <outline text="Philosophy Archives - JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/category/education-and-society/philosophy/feed/" htmlUrl="https://daily.jstor.org/category/education-and-society/philosophy/" description=""/>
+      <outline text="Plants &amp; Animals Archives - JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/category/science/plantsanimals/feed/" htmlUrl="https://daily.jstor.org/category/science/plantsanimals/" description=""/>
+      <outline text="Politics &amp; Government Archives - JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/category/politics/politics-government/feed/" htmlUrl="https://daily.jstor.org/category/politics/politics-government/" description=""/>
+      <outline text="Politics &amp; History Archives - JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/category/politics/feed/" htmlUrl="https://daily.jstor.org/category/politics/" description=""/>
+      <outline text="Quirky History Archives - JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/category/politics/quirky-history/feed/" htmlUrl="https://daily.jstor.org/category/politics/quirky-history/" description=""/>
+      <outline text="Religion Archives - JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/category/education-and-society/religion/feed/" htmlUrl="https://daily.jstor.org/category/education-and-society/religion/" description=""/>
+      <outline text="Science &amp; Technology Archives - JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/category/science/feed/" htmlUrl="https://daily.jstor.org/category/science/" description=""/>
+      <outline text="Social History Archives - JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/category/politics/social-history/feed/" htmlUrl="https://daily.jstor.org/category/politics/social-history/" description=""/>
+      <outline text="Social Sciences Archives - JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/category/education-and-society/social-sciences/feed/" htmlUrl="https://daily.jstor.org/category/education-and-society/social-sciences/" description=""/>
+      <outline text="Suggested Readings Archives - JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/category/suggested-readings/feed/" htmlUrl="https://daily.jstor.org/category/suggested-readings/" description=""/>
+      <outline text="Sustainability &amp; The Environment Archives - JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/category/science/sustainability/feed/" htmlUrl="https://daily.jstor.org/category/science/sustainability/" description=""/>
+      <outline text="Technology Archives - JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/category/science/technology/feed/" htmlUrl="https://daily.jstor.org/category/science/technology/" description=""/>
+      <outline text="U.S. History Archives - JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/category/politics/us-history/feed/" htmlUrl="https://daily.jstor.org/category/politics/us-history/" description=""/>
+      <outline text="World History Archives - JSTOR Daily" type="rss" xmlUrl="https://daily.jstor.org/category/politics/world-history/feed/" htmlUrl="https://daily.jstor.org/category/politics/world-history/" description=""/>
     </outline>
     <outline text="LA Times">
-      <outline text="Autos" type="rss" xmlUrl="https://www.latimes.com/business/autos/rss2.0.xml" htmlUrl="https://www.latimes.com/" description="Automotive news covering cars, car reviews, automotive trends and safety. View photo galleries or search for a car."/>
-      <outline text="Awards" type="rss" xmlUrl="https://www.latimes.com/entertainment-arts/awards/rss2.0.xml" htmlUrl="https://www.latimes.com/" description="Articles from The Envelope, the L.A. Times' entertainment awards news section, covering Hollywood award shows and entertainment interviews."/>
-      <outline text="Bill Plaschke" type="rss" xmlUrl="https://www.latimes.com/newsletters/sports/lanews-bill-plaschke-20130507-staff.html.rss" htmlUrl="https://www.latimes.com/people/bill-plaschke" description="Content published by Bill Plaschke."/>
+      <outline text="Autos" type="rss" xmlUrl="https://www.latimes.com/business/autos/rss2.0.xml" htmlUrl="https://www.latimes.com/" description=""/>
+      <outline text="Awards" type="rss" xmlUrl="https://www.latimes.com/entertainment-arts/awards/rss2.0.xml" htmlUrl="https://www.latimes.com/" description=""/>
+      <outline text="Bill Plaschke" type="rss" xmlUrl="https://www.latimes.com/newsletters/sports/lanews-bill-plaschke-20130507-staff.html.rss" htmlUrl="https://www.latimes.com/people/bill-plaschke" description=""/>
       <outline text="Books" type="rss" xmlUrl="https://www.latimes.com/entertainment-arts/books/rss2.0.xml" htmlUrl="https://www.latimes.com/" description=""/>
-      <outline text="Business" type="rss" xmlUrl="https://www.latimes.com/business/rss2.0.xml" htmlUrl="https://www.latimes.com/" description="Business, jobs, economics and entrepreneurship."/>
-      <outline text="California" type="rss" xmlUrl="https://www.latimes.com/california/rss2.0.xml" htmlUrl="https://www.latimes.com/" description="California news and features from the Los Angeles Times."/>
-      <outline text="Climate &amp; Environment" type="rss" xmlUrl="https://www.latimes.com/environment/rss2.0.xml" htmlUrl="https://www.latimes.com/" description="News and analysis about water quality, air pollution, weather patterns, environmental issues and climate change."/>
-      <outline text="Company Town" type="rss" xmlUrl="https://www.latimes.com/entertainment-arts/business/rss2.0.xml" htmlUrl="https://www.latimes.com/" description="Company Town, the entertainment industry news section from the L.A. Times. Get the latest Hollywood business report."/>
-      <outline text="Entertainment &amp; Arts" type="rss" xmlUrl="https://www.latimes.com/entertainment-arts/rss2.0.xml" htmlUrl="https://www.latimes.com/" description="L.A. Times entertainment news from Hollywood including event coverage, celebrity gossip and deals. View photo galleries, read TV and movie reviews and more."/>
-      <outline text="L.A. Times" type="rss" xmlUrl="https://www.latimes.com/index.rss" htmlUrl="https://www.latimes.com/" description="The L.A. Times is a leading source of breaking news, entertainment, sports, politics, and more for Southern California and the world."/>
-      <outline text="Movies" type="rss" xmlUrl="https://www.latimes.com/entertainment-arts/movies/rss2.0.xml" htmlUrl="https://www.latimes.com/" description="Movie reviews and film news, including articles about big-budget blockbusters, foreign films and independent filmmakers."/>
-      <outline text="Music" type="rss" xmlUrl="https://www.latimes.com/entertainment-arts/music/rss2.0.xml" htmlUrl="https://www.latimes.com/" description="Read music news, album and concert reviews, interviews and music award coverage."/>
-      <outline text="Opinion" type="rss" xmlUrl="https://www.latimes.com/opinion/rss2.0.xml" htmlUrl="https://www.latimes.com/" description="Opinion, op-eds, letters to the editor, analysis and policy ideas from the Los Angeles Times."/>
-      <outline text="Orange County" type="rss" xmlUrl="https://www.latimes.com/california/orange-county/rss2.0.xml" htmlUrl="https://www.latimes.com/" description="Orange County news from the Los Angeles Times."/>
+      <outline text="Business" type="rss" xmlUrl="https://www.latimes.com/business/rss2.0.xml" htmlUrl="https://www.latimes.com/" description=""/>
+      <outline text="California" type="rss" xmlUrl="https://www.latimes.com/california/rss2.0.xml" htmlUrl="https://www.latimes.com/" description=""/>
+      <outline text="Climate &amp; Environment" type="rss" xmlUrl="https://www.latimes.com/environment/rss2.0.xml" htmlUrl="https://www.latimes.com/" description=""/>
+      <outline text="Company Town" type="rss" xmlUrl="https://www.latimes.com/entertainment-arts/business/rss2.0.xml" htmlUrl="https://www.latimes.com/" description=""/>
+      <outline text="Entertainment &amp; Arts" type="rss" xmlUrl="https://www.latimes.com/entertainment-arts/rss2.0.xml" htmlUrl="https://www.latimes.com/" description=""/>
+      <outline text="L.A. Times" type="rss" xmlUrl="https://www.latimes.com/index.rss" htmlUrl="https://www.latimes.com/" description=""/>
+      <outline text="Movies" type="rss" xmlUrl="https://www.latimes.com/entertainment-arts/movies/rss2.0.xml" htmlUrl="https://www.latimes.com/" description=""/>
+      <outline text="Music" type="rss" xmlUrl="https://www.latimes.com/entertainment-arts/music/rss2.0.xml" htmlUrl="https://www.latimes.com/" description=""/>
+      <outline text="Opinion" type="rss" xmlUrl="https://www.latimes.com/opinion/rss2.0.xml" htmlUrl="https://www.latimes.com/" description=""/>
+      <outline text="Orange County" type="rss" xmlUrl="https://www.latimes.com/california/orange-county/rss2.0.xml" htmlUrl="https://www.latimes.com/" description=""/>
       <outline text="Politics" type="rss" xmlUrl="https://www.latimes.com/politics/rss2.0.xml" htmlUrl="https://www.latimes.com/" description=""/>
-      <outline text="Real Estate" type="rss" xmlUrl="https://www.latimes.com/business/real-estate/rss2.0.xml" htmlUrl="https://www.latimes.com/" description="Real estate, luxury homes and commercial properties."/>
-      <outline text="Science &amp; Medicine" type="rss" xmlUrl="https://www.latimes.com/science/rss2.0.xml" htmlUrl="https://www.latimes.com/" description="In-depth science news about space exploration, medical science, climate change, technological breakthroughs and the latest scientific studies."/>
-      <outline text="Sports - Angels" type="rss" xmlUrl="https://www.latimes.com/sports/angels/rss2.0.xml" htmlUrl="https://www.latimes.com/" description="Los Angeles Angels of Anaheim news including player information, game times, scores, rankings and more baseball news."/>
-      <outline text="Sports - Chargers" type="rss" xmlUrl="https://www.latimes.com/sports/chargers/rss2.0.xml" htmlUrl="https://www.latimes.com/" description="Read L.A. Chargers news from the Los Angeles Times."/>
-      <outline text="Sports - Clippers" type="rss" xmlUrl="https://www.latimes.com/sports/clippers/rss2.0.xml" htmlUrl="https://www.latimes.com/" description="Clippers news from the Los Angeles Times. View L.A. Clippers news, photo galleries, videos, popular stories and more."/>
-      <outline text="Sports - Dodgers" type="rss" xmlUrl="https://www.latimes.com/sports/dodgers/rss2.0.xml" htmlUrl="https://www.latimes.com/" description="L.A. Dodgers news, scores, analysis and opinion from the Los Angeles Times."/>
-      <outline text="Sports - General" type="rss" xmlUrl="https://www.latimes.com/sports/rss2.0.xml" htmlUrl="https://www.latimes.com/" description="Sports news and scores, covering the NBA, NFL, MLB, NHL college and high school sports teams, Dodgers, Lakers, Angels, Clippers, Rams, Chargers, USC, UCLA, boxing and more."/>
-      <outline text="Sports - High School Sports" type="rss" xmlUrl="https://www.latimes.com/sports/highschool/rss2.0.xml" htmlUrl="https://www.latimes.com/" description="High school sports news, including information on players, rankings and game times from the Los Angeles Times."/>
-      <outline text="Sports - Hockey" type="rss" xmlUrl="https://www.latimes.com/sports/hockey/rss2.0.xml" htmlUrl="https://www.latimes.com/" description="Read Hockey news from the Los Angeles Times."/>
-      <outline text="Sports - Lakers" type="rss" xmlUrl="https://www.latimes.com/sports/lakers/rss2.0.xml" htmlUrl="https://www.latimes.com/" description="Los Angeles Lakers news from our award-winning L.A. Times sportswriters. Find game times, scores, player information and rankings here."/>
-      <outline text="Sports - Rams" type="rss" xmlUrl="https://www.latimes.com/sports/rams/rss2.0.xml" htmlUrl="https://www.latimes.com/" description="L.A. Rams news from the Los Angeles Times."/>
-      <outline text="Sports - Soccer" type="rss" xmlUrl="https://www.latimes.com/sports/soccer/rss2.0.xml" htmlUrl="https://www.latimes.com/" description="The latest soccer news from around the globe as well as soccer scores, soccer stats, soccer players and teams. Coverage of the L.A. Galaxy, LAFC and the World Cup."/>
-      <outline text="Sports - USC Sports" type="rss" xmlUrl="https://www.latimes.com/sports/usc/rss2.0.xml" htmlUrl="https://www.latimes.com/" description="All things Trojan sports, including USC baseball, basketball and football. Information on game times, players and rankings."/>
-      <outline text="Technology and the Internet" type="rss" xmlUrl="https://www.latimes.com/business/technology/rss2.0.xml" htmlUrl="https://www.latimes.com/" description="Los Angeles Times articles covering technology, including social media, apps, electronics and other news of tech companies."/>
-      <outline text="Television" type="rss" xmlUrl="https://www.latimes.com/entertainment-arts/tv/rss2.0.xml" htmlUrl="https://www.latimes.com/" description="What's on TV: Reviews and articles about networks, streaming, TV stars and cable services"/>
-      <outline text="Travel &amp; Experiences" type="rss" xmlUrl="https://www.latimes.com/travel/rss2.0.xml" htmlUrl="https://www.latimes.com/" description="Our writers bring you the most fascinating destinations on the West Coast. Scour travel deals, find inspiration, get travel tips and more."/>
-      <outline text="UCLA Sports" type="rss" xmlUrl="https://www.latimes.com/sports/ucla/rss2.0.xml" htmlUrl="https://www.latimes.com/" description="UCLA sports news including Bruin baseball, basketball and football. Check scores and game times here."/>
-      <outline text="World &amp; Nation" type="rss" xmlUrl="https://www.latimes.com/world-nation/rss2.0.xml" htmlUrl="https://www.latimes.com/" description="Nation and World articles from the Los Angeles Times."/>
+      <outline text="Real Estate" type="rss" xmlUrl="https://www.latimes.com/business/real-estate/rss2.0.xml" htmlUrl="https://www.latimes.com/" description=""/>
+      <outline text="Science &amp; Medicine" type="rss" xmlUrl="https://www.latimes.com/science/rss2.0.xml" htmlUrl="https://www.latimes.com/" description=""/>
+      <outline text="Sports - Angels" type="rss" xmlUrl="https://www.latimes.com/sports/angels/rss2.0.xml" htmlUrl="https://www.latimes.com/" description=""/>
+      <outline text="Sports - Chargers" type="rss" xmlUrl="https://www.latimes.com/sports/chargers/rss2.0.xml" htmlUrl="https://www.latimes.com/" description=""/>
+      <outline text="Sports - Clippers" type="rss" xmlUrl="https://www.latimes.com/sports/clippers/rss2.0.xml" htmlUrl="https://www.latimes.com/" description=""/>
+      <outline text="Sports - Dodgers" type="rss" xmlUrl="https://www.latimes.com/sports/dodgers/rss2.0.xml" htmlUrl="https://www.latimes.com/" description=""/>
+      <outline text="Sports - General" type="rss" xmlUrl="https://www.latimes.com/sports/rss2.0.xml" htmlUrl="https://www.latimes.com/" description=""/>
+      <outline text="Sports - High School Sports" type="rss" xmlUrl="https://www.latimes.com/sports/highschool/rss2.0.xml" htmlUrl="https://www.latimes.com/" description=""/>
+      <outline text="Sports - Hockey" type="rss" xmlUrl="https://www.latimes.com/sports/hockey/rss2.0.xml" htmlUrl="https://www.latimes.com/" description=""/>
+      <outline text="Sports - Lakers" type="rss" xmlUrl="https://www.latimes.com/sports/lakers/rss2.0.xml" htmlUrl="https://www.latimes.com/" description=""/>
+      <outline text="Sports - Rams" type="rss" xmlUrl="https://www.latimes.com/sports/rams/rss2.0.xml" htmlUrl="https://www.latimes.com/" description=""/>
+      <outline text="Sports - Soccer" type="rss" xmlUrl="https://www.latimes.com/sports/soccer/rss2.0.xml" htmlUrl="https://www.latimes.com/" description=""/>
+      <outline text="Sports - USC Sports" type="rss" xmlUrl="https://www.latimes.com/sports/usc/rss2.0.xml" htmlUrl="https://www.latimes.com/" description=""/>
+      <outline text="Technology and the Internet" type="rss" xmlUrl="https://www.latimes.com/business/technology/rss2.0.xml" htmlUrl="https://www.latimes.com/" description=""/>
+      <outline text="Television" type="rss" xmlUrl="https://www.latimes.com/entertainment-arts/tv/rss2.0.xml" htmlUrl="https://www.latimes.com/" description=""/>
+      <outline text="Travel &amp; Experiences" type="rss" xmlUrl="https://www.latimes.com/travel/rss2.0.xml" htmlUrl="https://www.latimes.com/" description=""/>
+      <outline text="UCLA Sports" type="rss" xmlUrl="https://www.latimes.com/sports/ucla/rss2.0.xml" htmlUrl="https://www.latimes.com/" description=""/>
+      <outline text="World &amp; Nation" type="rss" xmlUrl="https://www.latimes.com/world-nation/rss2.0.xml" htmlUrl="https://www.latimes.com/" description=""/>
     </outline>
     <outline text="NASA">
-      <outline text="Aeronautics News" type="rss" xmlUrl="https://www.nasa.gov/rss/dyn/aeronautics.rss" htmlUrl="http://www.nasa.gov/" description="A RSS news feed containing the latest NASA press releases on aeronautics."/>
-      <outline text="Chandra Images" type="rss" xmlUrl="https://www.nasa.gov/rss/dyn/chandra_images.rss" htmlUrl="http://www.nasa.gov/" description="Images from the Chandra X-Ray Space Telescope"/>
-      <outline text="Earth News" type="rss" xmlUrl="https://www.nasa.gov/rss/dyn/earth.rss" htmlUrl="http://www.nasa.gov/" description="A RSS news feed containing the latest NASA press releases on Earth-observing missions."/>
-      <outline text="Education News" type="rss" xmlUrl="https://www.nasa.gov/rss/dyn/educationnews.rss" htmlUrl="http://www.nasa.gov/" description="A RSS feed containing the latest education related news from NASA."/>
-      <outline text="Goddard News" type="rss" xmlUrl="https://www.nasa.gov/rss/dyn/goddard-NewsFeature.rss" htmlUrl="http://www.nasa.gov/" description="An RSS feed containing the latest news, images and  features from NASA's Goddard Space Flight Center in Greenbelt, Md."/>
-      <outline text="Hurricane Breaking News" type="rss" xmlUrl="https://www.nasa.gov/rss/dyn/hurricaneupdate.rss" htmlUrl="http://www.nasa.gov/" description="An RSS feed containing the latest breaking news from NASA on world-wide hurricanes."/>
+      <outline text="Aeronautics News" type="rss" xmlUrl="https://www.nasa.gov/rss/dyn/aeronautics.rss" htmlUrl="http://www.nasa.gov/" description=""/>
+      <outline text="Chandra Images" type="rss" xmlUrl="https://www.nasa.gov/rss/dyn/chandra_images.rss" htmlUrl="http://www.nasa.gov/" description=""/>
+      <outline text="Earth News" type="rss" xmlUrl="https://www.nasa.gov/rss/dyn/earth.rss" htmlUrl="http://www.nasa.gov/" description=""/>
+      <outline text="Education News" type="rss" xmlUrl="https://www.nasa.gov/rss/dyn/educationnews.rss" htmlUrl="http://www.nasa.gov/" description=""/>
+      <outline text="Goddard News" type="rss" xmlUrl="https://www.nasa.gov/rss/dyn/goddard-NewsFeature.rss" htmlUrl="http://www.nasa.gov/" description=""/>
+      <outline text="Hurricane Breaking News" type="rss" xmlUrl="https://www.nasa.gov/rss/dyn/hurricaneupdate.rss" htmlUrl="http://www.nasa.gov/" description=""/>
       <outline text="ISS On-Orbit Status Report" type="rss" xmlUrl="https://blogs.nasa.gov/stationreport/feed/" htmlUrl="https://blogs.nasa.gov/stationreport" description=""/>
-      <outline text="Kepler News and Features" type="rss" xmlUrl="https://www.nasa.gov/rss/dyn/mission_pages/kepler/news/kepler-newsandfeatures-RSS.rss" htmlUrl="http://www.nasa.gov/" description="Kepler News and Features RSS"/>
-      <outline text="NASA Ames Research Center - News and Features" type="rss" xmlUrl="https://www.nasa.gov/rss/dyn/ames_news.rss" htmlUrl="http://www.nasa.gov/" description="Ames News RSS"/>
-      <outline text="NASA Armstrong Flight Research Center News and Features" type="rss" xmlUrl="https://www.nasa.gov/rss/dyn/armstrong_news.rss" htmlUrl="http://www.nasa.gov/" description="News and Features from NASA's Armstrong Flight Research Center"/>
-      <outline text="NASA Breaking News" type="rss" xmlUrl="https://www.nasa.gov/rss/dyn/breaking_news.rss" htmlUrl="http://www.nasa.gov/" description="A RSS news feed containing the latest NASA news articles and press releases."/>
-      <outline text="NASA Glenn Research Center Latest Features" type="rss" xmlUrl="https://www.nasa.gov/rss/dyn/glenn_features.rss" htmlUrl="http://www.nasa.gov/" description="Glenn Latest Features RSS"/>
-      <outline text="NASA Image of the Day" type="rss" xmlUrl="https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss" htmlUrl="http://www.nasa.gov/" description="The latest NASA &quot;Image of the Day&quot; image."/>
-      <outline text="NASA Johnson Space Center - News and Features" type="rss" xmlUrl="https://www.nasa.gov/rss/dyn/johnson_news.rss" htmlUrl="http://www.nasa.gov/" description="Ames News RSS"/>
-      <outline text="NASA Marshall Space Flight Center News and Features" type="rss" xmlUrl="https://www.nasa.gov/rss/dyn/msfc_news.rss" htmlUrl="http://www.nasa.gov/" description="News, Images, and Features from NASA's Marshall Space Flight Center"/>
-      <outline text="On the Station - Latest News" type="rss" xmlUrl="https://www.nasa.gov/rss/dyn/onthestation_rss.rss" htmlUrl="http://www.nasa.gov/" description="On the Station - Latest News"/>
-      <outline text="Solar System and Beyond" type="rss" xmlUrl="https://www.nasa.gov/rss/dyn/solar_system.rss" htmlUrl="http://www.nasa.gov/" description="A RSS news feed containing the latest NASA press releases on missions exploring our solar system and beyond."/>
-      <outline text="Space Station News" type="rss" xmlUrl="https://www.nasa.gov/rss/dyn/shuttle_station.rss" htmlUrl="http://www.nasa.gov/" description="A RSS news feed containing the latest NASA press releases on the International Space Station."/>
-      <outline text="Stennis News and Features" type="rss" xmlUrl="https://www.nasa.gov/rss/dyn/centers/stennis/news/latest_news.rss" htmlUrl="http://www.nasa.gov/" description="Stennis News RSS"/>
+      <outline text="Kepler News and Features" type="rss" xmlUrl="https://www.nasa.gov/rss/dyn/mission_pages/kepler/news/kepler-newsandfeatures-RSS.rss" htmlUrl="http://www.nasa.gov/" description=""/>
+      <outline text="NASA Ames Research Center - News and Features" type="rss" xmlUrl="https://www.nasa.gov/rss/dyn/ames_news.rss" htmlUrl="http://www.nasa.gov/" description=""/>
+      <outline text="NASA Armstrong Flight Research Center News and Features" type="rss" xmlUrl="https://www.nasa.gov/rss/dyn/armstrong_news.rss" htmlUrl="http://www.nasa.gov/" description=""/>
+      <outline text="NASA Breaking News" type="rss" xmlUrl="https://www.nasa.gov/rss/dyn/breaking_news.rss" htmlUrl="http://www.nasa.gov/" description=""/>
+      <outline text="NASA Glenn Research Center Latest Features" type="rss" xmlUrl="https://www.nasa.gov/rss/dyn/glenn_features.rss" htmlUrl="http://www.nasa.gov/" description=""/>
+      <outline text="NASA Image of the Day" type="rss" xmlUrl="https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss" htmlUrl="http://www.nasa.gov/" description=""/>
+      <outline text="NASA Johnson Space Center - News and Features" type="rss" xmlUrl="https://www.nasa.gov/rss/dyn/johnson_news.rss" htmlUrl="http://www.nasa.gov/" description=""/>
+      <outline text="NASA Marshall Space Flight Center News and Features" type="rss" xmlUrl="https://www.nasa.gov/rss/dyn/msfc_news.rss" htmlUrl="http://www.nasa.gov/" description=""/>
+      <outline text="On the Station - Latest News" type="rss" xmlUrl="https://www.nasa.gov/rss/dyn/onthestation_rss.rss" htmlUrl="http://www.nasa.gov/" description=""/>
+      <outline text="Solar System and Beyond" type="rss" xmlUrl="https://www.nasa.gov/rss/dyn/solar_system.rss" htmlUrl="http://www.nasa.gov/" description=""/>
+      <outline text="Space Station News" type="rss" xmlUrl="https://www.nasa.gov/rss/dyn/shuttle_station.rss" htmlUrl="http://www.nasa.gov/" description=""/>
+      <outline text="Stennis News and Features" type="rss" xmlUrl="https://www.nasa.gov/rss/dyn/centers/stennis/news/latest_news.rss" htmlUrl="http://www.nasa.gov/" description=""/>
     </outline>
     <outline text="Nautilus">
-      <outline text="Nautilus » Anthropology Category Feed" type="rss" xmlUrl="https://nautil.us/topics/anthropology/feed/" htmlUrl="https://nautil.us/topics/anthropology/" description="Science Connected"/>
-      <outline text="Nautilus » Arts Category Feed" type="rss" xmlUrl="https://nautil.us/topics/arts/feed/" htmlUrl="https://nautil.us/topics/arts/" description="Science Connected"/>
-      <outline text="Nautilus » Astronomy Category Feed" type="rss" xmlUrl="https://nautil.us/topics/astronomy/feed/" htmlUrl="https://nautil.us/topics/astronomy/" description="Science Connected"/>
-      <outline text="Nautilus » Communication Category Feed" type="rss" xmlUrl="https://nautil.us/topics/communication/feed/" htmlUrl="https://nautil.us/topics/communication/" description="Science Connected"/>
-      <outline text="Nautilus » Economics Category Feed" type="rss" xmlUrl="https://nautil.us/topics/economics/feed/" htmlUrl="https://nautil.us/topics/economics/" description="Science Connected"/>
-      <outline text="Nautilus » Environment Category Feed" type="rss" xmlUrl="https://nautil.us/topics/environment/feed/" htmlUrl="https://nautil.us/topics/environment/" description="Science Connected"/>
-      <outline text="Nautilus » Evolution Category Feed" type="rss" xmlUrl="https://nautil.us/topics/evolution/feed/" htmlUrl="https://nautil.us/topics/evolution/" description="Science Connected"/>
-      <outline text="Nautilus » Feed" type="rss" xmlUrl="https://nautil.us/feed/" htmlUrl="https://nautil.us/" description="Science Connected"/>
-      <outline text="Nautilus » General Category Feed" type="rss" xmlUrl="https://nautil.us/topics/general/feed/" htmlUrl="https://nautil.us/topics/general/" description="Science Connected"/>
-      <outline text="Nautilus » Genetics Category Feed" type="rss" xmlUrl="https://nautil.us/topics/genetics/feed/" htmlUrl="https://nautil.us/topics/genetics/" description="Science Connected"/>
-      <outline text="Nautilus » Geoscience Category Feed" type="rss" xmlUrl="https://nautil.us/topics/geoscience/feed/" htmlUrl="https://nautil.us/topics/geoscience/" description="Science Connected"/>
-      <outline text="Nautilus » Health Category Feed" type="rss" xmlUrl="https://nautil.us/topics/health/feed/" htmlUrl="https://nautil.us/topics/health/" description="Science Connected"/>
-      <outline text="Nautilus » History Category Feed" type="rss" xmlUrl="https://nautil.us/topics/history/feed/" htmlUrl="https://nautil.us/topics/history/" description="Science Connected"/>
-      <outline text="Nautilus » Math Category Feed" type="rss" xmlUrl="https://nautil.us/topics/math/feed/" htmlUrl="https://nautil.us/topics/math/" description="Science Connected"/>
-      <outline text="Nautilus » Microbiology Category Feed" type="rss" xmlUrl="https://nautil.us/topics/microbiology/feed/" htmlUrl="https://nautil.us/topics/microbiology/" description="Science Connected"/>
-      <outline text="Nautilus » Neuroscience Category Feed" type="rss" xmlUrl="https://nautil.us/topics/neuroscience/feed/" htmlUrl="https://nautil.us/topics/neuroscience/" description="Science Connected"/>
-      <outline text="Nautilus » Paleontology Category Feed" type="rss" xmlUrl="https://nautil.us/topics/paleontology/feed/" htmlUrl="https://nautil.us/topics/paleontology/" description="Science Connected"/>
-      <outline text="Nautilus » Philosophy Category Feed" type="rss" xmlUrl="https://nautil.us/topics/philosophy/feed/" htmlUrl="https://nautil.us/topics/philosophy/" description="Science Connected"/>
-      <outline text="Nautilus » Physics Category Feed" type="rss" xmlUrl="https://nautil.us/topics/physics/feed/" htmlUrl="https://nautil.us/topics/physics/" description="Science Connected"/>
-      <outline text="Nautilus » Psychology Category Feed" type="rss" xmlUrl="https://nautil.us/topics/psychology/feed/" htmlUrl="https://nautil.us/topics/psychology/" description="Science Connected"/>
-      <outline text="Nautilus » Sociology Category Feed" type="rss" xmlUrl="https://nautil.us/topics/sociology/feed/" htmlUrl="https://nautil.us/topics/sociology/" description="Science Connected"/>
-      <outline text="Nautilus » Technology Category Feed" type="rss" xmlUrl="https://nautil.us/topics/technology/feed/" htmlUrl="https://nautil.us/topics/technology/" description="Science Connected"/>
+      <outline text="Nautilus » Anthropology Category Feed" type="rss" xmlUrl="https://nautil.us/topics/anthropology/feed/" htmlUrl="https://nautil.us/topics/anthropology/" description=""/>
+      <outline text="Nautilus » Arts Category Feed" type="rss" xmlUrl="https://nautil.us/topics/arts/feed/" htmlUrl="https://nautil.us/topics/arts/" description=""/>
+      <outline text="Nautilus » Astronomy Category Feed" type="rss" xmlUrl="https://nautil.us/topics/astronomy/feed/" htmlUrl="https://nautil.us/topics/astronomy/" description=""/>
+      <outline text="Nautilus » Communication Category Feed" type="rss" xmlUrl="https://nautil.us/topics/communication/feed/" htmlUrl="https://nautil.us/topics/communication/" description=""/>
+      <outline text="Nautilus » Economics Category Feed" type="rss" xmlUrl="https://nautil.us/topics/economics/feed/" htmlUrl="https://nautil.us/topics/economics/" description=""/>
+      <outline text="Nautilus » Environment Category Feed" type="rss" xmlUrl="https://nautil.us/topics/environment/feed/" htmlUrl="https://nautil.us/topics/environment/" description=""/>
+      <outline text="Nautilus » Evolution Category Feed" type="rss" xmlUrl="https://nautil.us/topics/evolution/feed/" htmlUrl="https://nautil.us/topics/evolution/" description=""/>
+      <outline text="Nautilus » Feed" type="rss" xmlUrl="https://nautil.us/feed/" htmlUrl="https://nautil.us/" description=""/>
+      <outline text="Nautilus » General Category Feed" type="rss" xmlUrl="https://nautil.us/topics/general/feed/" htmlUrl="https://nautil.us/topics/general/" description=""/>
+      <outline text="Nautilus » Genetics Category Feed" type="rss" xmlUrl="https://nautil.us/topics/genetics/feed/" htmlUrl="https://nautil.us/topics/genetics/" description=""/>
+      <outline text="Nautilus » Geoscience Category Feed" type="rss" xmlUrl="https://nautil.us/topics/geoscience/feed/" htmlUrl="https://nautil.us/topics/geoscience/" description=""/>
+      <outline text="Nautilus » Health Category Feed" type="rss" xmlUrl="https://nautil.us/topics/health/feed/" htmlUrl="https://nautil.us/topics/health/" description=""/>
+      <outline text="Nautilus » History Category Feed" type="rss" xmlUrl="https://nautil.us/topics/history/feed/" htmlUrl="https://nautil.us/topics/history/" description=""/>
+      <outline text="Nautilus » Math Category Feed" type="rss" xmlUrl="https://nautil.us/topics/math/feed/" htmlUrl="https://nautil.us/topics/math/" description=""/>
+      <outline text="Nautilus » Microbiology Category Feed" type="rss" xmlUrl="https://nautil.us/topics/microbiology/feed/" htmlUrl="https://nautil.us/topics/microbiology/" description=""/>
+      <outline text="Nautilus » Neuroscience Category Feed" type="rss" xmlUrl="https://nautil.us/topics/neuroscience/feed/" htmlUrl="https://nautil.us/topics/neuroscience/" description=""/>
+      <outline text="Nautilus » Paleontology Category Feed" type="rss" xmlUrl="https://nautil.us/topics/paleontology/feed/" htmlUrl="https://nautil.us/topics/paleontology/" description=""/>
+      <outline text="Nautilus » Philosophy Category Feed" type="rss" xmlUrl="https://nautil.us/topics/philosophy/feed/" htmlUrl="https://nautil.us/topics/philosophy/" description=""/>
+      <outline text="Nautilus » Physics Category Feed" type="rss" xmlUrl="https://nautil.us/topics/physics/feed/" htmlUrl="https://nautil.us/topics/physics/" description=""/>
+      <outline text="Nautilus » Psychology Category Feed" type="rss" xmlUrl="https://nautil.us/topics/psychology/feed/" htmlUrl="https://nautil.us/topics/psychology/" description=""/>
+      <outline text="Nautilus » Sociology Category Feed" type="rss" xmlUrl="https://nautil.us/topics/sociology/feed/" htmlUrl="https://nautil.us/topics/sociology/" description=""/>
+      <outline text="Nautilus » Technology Category Feed" type="rss" xmlUrl="https://nautil.us/topics/technology/feed/" htmlUrl="https://nautil.us/topics/technology/" description=""/>
+    </outline>
+    <outline text="New Atlas">
+      <outline text="3D Printing" type="rss" xmlUrl="https://newatlas.com/3d-printing/index.rss" htmlUrl="https://newatlas.com/3d-printing/" description=""/>
+      <outline text="Aircraft" type="rss" xmlUrl="https://newatlas.com/aircraft/index.rss" htmlUrl="https://newatlas.com/aircraft/" description=""/>
+      <outline text="Architecture" type="rss" xmlUrl="https://newatlas.com/architecture/index.rss" htmlUrl="https://newatlas.com/architecture/" description=""/>
+      <outline text="Around The Home" type="rss" xmlUrl="https://newatlas.com/around-the-home/index.rss" htmlUrl="https://newatlas.com/around-the-home/" description=""/>
+      <outline text="Automotive" type="rss" xmlUrl="https://newatlas.com/automotive/index.rss" htmlUrl="https://newatlas.com/automotive/" description=""/>
+      <outline text="Bicycles" type="rss" xmlUrl="https://newatlas.com/bicycles/index.rss" htmlUrl="https://newatlas.com/bicycles/" description=""/>
+      <outline text="Biology" type="rss" xmlUrl="https://newatlas.com/biology/index.rss" htmlUrl="https://newatlas.com/biology/" description=""/>
+      <outline text="Computers" type="rss" xmlUrl="https://newatlas.com/computers/index.rss" htmlUrl="https://newatlas.com/computers/" description=""/>
+      <outline text="Deals" type="rss" xmlUrl="https://newatlas.com/deals/index.rss" htmlUrl="https://newatlas.com/deals/" description=""/>
+      <outline text="Drones" type="rss" xmlUrl="https://newatlas.com/drones/index.rss" htmlUrl="https://newatlas.com/drones/" description=""/>
+      <outline text="Electronics" type="rss" xmlUrl="https://newatlas.com/electronics/index.rss" htmlUrl="https://newatlas.com/electronics/" description=""/>
+      <outline text="Energy" type="rss" xmlUrl="https://newatlas.com/energy/index.rss" htmlUrl="https://newatlas.com/energy/" description=""/>
+      <outline text="Environment" type="rss" xmlUrl="https://newatlas.com/environment/index.rss" htmlUrl="https://newatlas.com/environment/" description=""/>
+      <outline text="Games" type="rss" xmlUrl="https://newatlas.com/games/index.rss" htmlUrl="https://newatlas.com/games/" description=""/>
+      <outline text="Good Thinking" type="rss" xmlUrl="https://newatlas.com/good-thinking/index.rss" htmlUrl="https://newatlas.com/good-thinking/" description=""/>
+      <outline text="Health &amp; Wellbeing" type="rss" xmlUrl="https://newatlas.com/health-wellbeing/index.rss" htmlUrl="https://newatlas.com/health-wellbeing/" description=""/>
+      <outline text="Holiday Destinations" type="rss" xmlUrl="https://newatlas.com/holiday-destinations/index.rss" htmlUrl="https://newatlas.com/holiday-destinations/" description=""/>
+      <outline text="Home Entertainment" type="rss" xmlUrl="https://newatlas.com/home-entertainment/index.rss" htmlUrl="https://newatlas.com/home-entertainment/" description=""/>
+      <outline text="Laptops" type="rss" xmlUrl="https://newatlas.com/laptops/index.rss" htmlUrl="https://newatlas.com/laptops/" description=""/>
+      <outline text="Lifestyle" type="rss" xmlUrl="https://newatlas.com/lifestyle/index.rss" htmlUrl="https://newatlas.com/lifestyle/" description=""/>
+      <outline text="Marine" type="rss" xmlUrl="https://newatlas.com/marine/index.rss" htmlUrl="https://newatlas.com/marine/" description=""/>
+      <outline text="Materials" type="rss" xmlUrl="https://newatlas.com/materials/index.rss" htmlUrl="https://newatlas.com/materials/" description=""/>
+      <outline text="Medical" type="rss" xmlUrl="https://newatlas.com/medical/index.rss" htmlUrl="https://newatlas.com/medical/" description=""/>
+      <outline text="Military" type="rss" xmlUrl="https://newatlas.com/military/index.rss" htmlUrl="https://newatlas.com/military/" description=""/>
+      <outline text="Mobile Technology" type="rss" xmlUrl="https://newatlas.com/mobile-technology/index.rss" htmlUrl="https://newatlas.com/mobile-technology/" description=""/>
+      <outline text="Motorcycles" type="rss" xmlUrl="https://newatlas.com/motorcycles/index.rss" htmlUrl="https://newatlas.com/motorcycles/" description=""/>
+      <outline text="Music" type="rss" xmlUrl="https://newatlas.com/music/index.rss" htmlUrl="https://newatlas.com/music/" description=""/>
+      <outline text="New Atlas - New Technology &amp; Science News" type="rss" xmlUrl="https://newatlas.com/index.rss" htmlUrl="https://newatlas.com/" description=""/>
+      <outline text="Outdoors" type="rss" xmlUrl="https://newatlas.com/outdoors/index.rss" htmlUrl="https://newatlas.com/outdoors/" description=""/>
+      <outline text="Photography" type="rss" xmlUrl="https://newatlas.com/photography/index.rss" htmlUrl="https://newatlas.com/photography/" description=""/>
+      <outline text="Physics" type="rss" xmlUrl="https://newatlas.com/physics/index.rss" htmlUrl="https://newatlas.com/physics/" description=""/>
+      <outline text="Quantum Computing" type="rss" xmlUrl="https://newatlas.com/quantum-computing/index.rss" htmlUrl="https://newatlas.com/quantum-computing/" description=""/>
+      <outline text="Robotics" type="rss" xmlUrl="https://newatlas.com/robotics/index.rss" htmlUrl="https://newatlas.com/robotics/" description=""/>
+      <outline text="Science" type="rss" xmlUrl="https://newatlas.com/science/index.rss" htmlUrl="https://newatlas.com/science/" description=""/>
+      <outline text="Smartwatches" type="rss" xmlUrl="https://newatlas.com/smartwatches/index.rss" htmlUrl="https://newatlas.com/smartwatches/" description=""/>
+      <outline text="Space" type="rss" xmlUrl="https://newatlas.com/space/index.rss" htmlUrl="https://newatlas.com/space/" description=""/>
+      <outline text="Technology" type="rss" xmlUrl="https://newatlas.com/technology/index.rss" htmlUrl="https://newatlas.com/technology/" description=""/>
+      <outline text="Telecommunications" type="rss" xmlUrl="https://newatlas.com/telecommunications/index.rss" htmlUrl="https://newatlas.com/telecommunications/" description=""/>
+      <outline text="Tiny Houses" type="rss" xmlUrl="https://newatlas.com/tiny-houses/index.rss" htmlUrl="https://newatlas.com/tiny-houses/" description=""/>
+      <outline text="Transport" type="rss" xmlUrl="https://newatlas.com/transport/index.rss" htmlUrl="https://newatlas.com/transport/" description=""/>
+      <outline text="Urban Transport" type="rss" xmlUrl="https://newatlas.com/urban-transport/index.rss" htmlUrl="https://newatlas.com/urban-transport/" description=""/>
+      <outline text="Virtual Reality" type="rss" xmlUrl="https://newatlas.com/vr/index.rss" htmlUrl="https://newatlas.com/vr/" description=""/>
+      <outline text="Wearables" type="rss" xmlUrl="https://newatlas.com/wearables/index.rss" htmlUrl="https://newatlas.com/wearables/" description=""/>
     </outline>
     <outline text="New York Times">
       <outline text="NYT &gt; Arts" type="rss" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Arts.xml" htmlUrl="https://www.nytimes.com/section/arts" description=""/>
@@ -245,54 +323,64 @@
       <outline text="NYT &gt; World News" type="rss" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" htmlUrl="https://www.nytimes.com/section/world" description=""/>
       <outline text="NYT &gt; Your Money" type="rss" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/YourMoney.xml" htmlUrl="https://www.nytimes.com/section/your-money" description=""/>
     </outline>
+    <outline text="Noema">
+      <outline text="NOEMA » Climate Crisis Article Topic Feed" type="rss" xmlUrl="https://www.noemamag.com/article-topic/climate-crisis/feed/" htmlUrl="https://www.noemamag.com/article-topic/climate-crisis/" description=""/>
+      <outline text="NOEMA » Digital Society Article Topic Feed" type="rss" xmlUrl="https://www.noemamag.com/article-topic/digital-society/feed/" htmlUrl="https://www.noemamag.com/article-topic/digital-society/" description=""/>
+      <outline text="NOEMA » Feed" type="rss" xmlUrl="https://www.noemamag.com/?feed=smartformat" htmlUrl="https://www.noemamag.com/" description=""/>
+      <outline text="NOEMA » Future of Capitalism Article Topic Feed" type="rss" xmlUrl="https://www.noemamag.com/article-topic/future-of-capitalism/feed/" htmlUrl="https://www.noemamag.com/article-topic/future-of-capitalism/" description=""/>
+      <outline text="NOEMA » Future of Democracy Article Topic Feed" type="rss" xmlUrl="https://www.noemamag.com/article-topic/future-of-democracy/feed/" htmlUrl="https://www.noemamag.com/article-topic/future-of-democracy/" description=""/>
+      <outline text="NOEMA » Geopolitics &amp; Globalization Article Topic Feed" type="rss" xmlUrl="https://www.noemamag.com/article-topic/geopolitics-globalization/feed/" htmlUrl="https://www.noemamag.com/article-topic/geopolitics-globalization/" description=""/>
+      <outline text="NOEMA » Philosophy &amp; Culture Article Topic Feed" type="rss" xmlUrl="https://www.noemamag.com/article-topic/philosophy-culture/feed/" htmlUrl="https://www.noemamag.com/article-topic/philosophy-culture/" description=""/>
+      <outline text="NOEMA » Technology &amp; the Human Article Topic Feed" type="rss" xmlUrl="https://www.noemamag.com/article-topic/technology-and-the-human/feed/" htmlUrl="https://www.noemamag.com/article-topic/technology-and-the-human/" description=""/>
+    </outline>
     <outline text="Phys.org">
-      <outline text="Agriculture news" type="rss" xmlUrl="https://phys.org/rss-feed/biology-news/agriculture/" htmlUrl="https://phys.org/biology-news/agriculture" description="Agriculture, livestock, farming and food processing news"/>
-      <outline text="Analytical Chemistry News - Chemistry News" type="rss" xmlUrl="https://phys.org/rss-feed/chemistry-news/analytical-chemistry/" htmlUrl="https://phys.org/chemistry-news/analytical-chemistry" description="The latest science news on analytical chemistry"/>
-      <outline text="Archaeology News" type="rss" xmlUrl="https://phys.org/rss-feed/science-news/archaeology-fossils/" htmlUrl="https://phys.org/science-news/archaeology-fossils" description="The latest news on archaeology, archaeological research and archaeological advancements."/>
-      <outline text="Astrobiology news" type="rss" xmlUrl="https://phys.org/rss-feed/space-news/astrobiology/" htmlUrl="https://phys.org/space-news/astrobiology" description="Astrobiology news stories about origin and evolution of life in the Universe"/>
-      <outline text="Astronomy News - Space News, Exploration News, Earth Science News, Earth Science" type="rss" xmlUrl="https://phys.org/rss-feed/space-news/astronomy/" htmlUrl="https://phys.org/space-news/astronomy" description="The latest science news on astronomy, space, and astrophysics."/>
-      <outline text="Bio &amp; Medicine News - Nanobiology News, Nanomedicine News, Nanotech News,  Nanotechnology News" type="rss" xmlUrl="https://phys.org/rss-feed/nanotech-news/bio-medicine/" htmlUrl="https://phys.org/nanotech-news/bio-medicine" description="The latest science news on nanobiology, nano medicine, nanotechnology, nanoscience, and nanotech."/>
-      <outline text="Biochemistry News - Chemistry News" type="rss" xmlUrl="https://phys.org/rss-feed/chemistry-news/biochemistry/" htmlUrl="https://phys.org/chemistry-news/biochemistry" description="The latest news on biochemistry"/>
-      <outline text="Biology News - Evolution, Cell theory, Gene theory, Microbiology, Biotechnology" type="rss" xmlUrl="https://phys.org/rss-feed/biology-news/" htmlUrl="https://phys.org/biology-news/" description="Read the latest science news from Phys.org on biology, evolution, microbiology, biotechnology"/>
-      <outline text="Biotechnology News - Biology News" type="rss" xmlUrl="https://phys.org/rss-feed/biology-news/biotechnology/" htmlUrl="https://phys.org/biology-news/biotechnology" description="The latest science news on biotechnology"/>
-      <outline text="Cell Biology and Microbiology News - Biology news, Microbiology" type="rss" xmlUrl="https://phys.org/rss-feed/biology-news/microbiology/" htmlUrl="https://phys.org/biology-news/microbiology" description="The latest science news on microbiology and cell biology."/>
-      <outline text="Chemistry News - Biochemistry, Polymers, Materials Science" type="rss" xmlUrl="https://phys.org/rss-feed/chemistry-news/" htmlUrl="https://phys.org/chemistry-news/" description="The latest news stories on chemistry, biochemistry, polymers, materials science from Phys.org"/>
-      <outline text="Condensed Matter News - Physics News, Physic Materials News, Physics, Materials" type="rss" xmlUrl="https://phys.org/rss-feed/physics-news/materials/" htmlUrl="https://phys.org/physics-news/materials" description="The latest news on Physics, Materials, Science and Technology"/>
-      <outline text="Earth News - Earth Science News, Earth Science, Climate Change" type="rss" xmlUrl="https://phys.org/rss-feed/earth-news/" htmlUrl="https://phys.org/earth-news/" description="Earth science research, climate change, and global warming.  The latest news and updates from Phys.org"/>
-      <outline text="Earth Sciences News - Earth and Environmental Sciences" type="rss" xmlUrl="https://phys.org/rss-feed/earth-news/earth-sciences/" htmlUrl="https://phys.org/earth-news/earth-sciences" description="The latest news on earth sciences and the environment"/>
-      <outline text="Ecology News - Biology News" type="rss" xmlUrl="https://phys.org/rss-feed/biology-news/ecology/" htmlUrl="https://phys.org/biology-news/ecology" description="The latest science and research news on ecology"/>
-      <outline text="Economics &amp; Business Research News - Science News" type="rss" xmlUrl="https://phys.org/rss-feed/science-news/economics-business/" htmlUrl="https://phys.org/science-news/economics-business" description="The latest news on economics research, business research, management sciences"/>
-      <outline text="Environmental News - Environment, Earth Sciences" type="rss" xmlUrl="https://phys.org/rss-feed/earth-news/environment/" htmlUrl="https://phys.org/earth-news/environment" description="The latest news on the environment, environmental issues, earth science and space exploration."/>
-      <outline text="Evolution News - Biology news" type="rss" xmlUrl="https://phys.org/rss-feed/biology-news/evolution/" htmlUrl="https://phys.org/biology-news/evolution" description="The latest science  news on evolution"/>
-      <outline text="General Biology news" type="rss" xmlUrl="https://phys.org/rss-feed/biology-news/biology-other/" htmlUrl="https://phys.org/biology-news/biology-other" description="The latest news on biology, natural sciences, environment"/>
-      <outline text="General Physics News - Science News, Physics News, Physics, Material Sciences, Science" type="rss" xmlUrl="https://phys.org/rss-feed/physics-news/physics/" htmlUrl="https://phys.org/physics-news/physics" description="The latest news on physics, materials, nanotech, science and technology."/>
-      <outline text="General Science News -  Reviews, Analysis" type="rss" xmlUrl="https://phys.org/rss-feed/science-news/sci-other/" htmlUrl="https://phys.org/science-news/sci-other" description="The latest news on chemistry, math, archaeology, biology, chemistry, mathematics and science technologies."/>
-      <outline text="Materials Science News - Chemistry News" type="rss" xmlUrl="https://phys.org/rss-feed/chemistry-news/materials-science/" htmlUrl="https://phys.org/chemistry-news/materials-science" description="The latest news on chemistry and materials science"/>
-      <outline text="Mathematics News - Math News, Mathematical Sciences" type="rss" xmlUrl="https://phys.org/rss-feed/science-news/mathematics/" htmlUrl="https://phys.org/science-news/mathematics" description="The latest news on mathematics, math, math science, mathematical science and math technology."/>
-      <outline text="Molecular and Computational Biology news" type="rss" xmlUrl="https://phys.org/rss-feed/biology-news/molecular-computational/" htmlUrl="https://phys.org/biology-news/molecular-computational" description="Medical Xpress provides the latest news on molecular and Computational biology"/>
-      <outline text="Nanomaterials News - Nanomaterials, Nanoparticles, and Nanotechnology" type="rss" xmlUrl="https://phys.org/rss-feed/nanotech-news/nano-materials/" htmlUrl="https://phys.org/nanotech-news/nano-materials" description="The latest science news on nanomaterials, nanotechnology, nanoparticles and nanoscience."/>
-      <outline text="Nanophysics News - Nanotechnology News, Nanotech News" type="rss" xmlUrl="https://phys.org/rss-feed/nanotech-news/nano-physics/" htmlUrl="https://phys.org/nanotech-news/nano-physics" description="The latest science news on nanophysics, nanotechnology, nanotech and nanoscience."/>
-      <outline text="Nanotechnology News - Nanoscience, Nanotechnolgy, Nanotech News" type="rss" xmlUrl="https://phys.org/rss-feed/nanotech-news/" htmlUrl="https://phys.org/nanotech-news/" description="Nanotechnology. The latest news on  nanoscience, nanoelectronics, science and technology. Updated Daily."/>
-      <outline text="Optics &amp; Photonics News - Optics, Photonics, Physics News" type="rss" xmlUrl="https://phys.org/rss-feed/physics-news/optics-photonics/" htmlUrl="https://phys.org/physics-news/optics-photonics" description="The latest news on Optics and Photonics"/>
-      <outline text="Other Chemistry News - Chemistry News" type="rss" xmlUrl="https://phys.org/rss-feed/chemistry-news/chemistry-other/" htmlUrl="https://phys.org/chemistry-news/chemistry-other" description="The latest science news on composition, structure, and properties of matter"/>
-      <outline text="Paleontology news" type="rss" xmlUrl="https://phys.org/rss-feed/biology-news/paleontology/" htmlUrl="https://phys.org/biology-news/paleontology" description="News about paleontology, important paleontological discoveries and fossil studies"/>
-      <outline text="Phys.org - latest science and technology news stories" type="rss" xmlUrl="https://phys.org/rss-feed/" htmlUrl="https://phys.org/" description="Phys.org internet news portal provides the latest news on science including: Physics, Nanotechnology, Life Sciences, Space Science, Earth Science, Environment, Health and Medicine."/>
-      <outline text="Phys.org - latest science and technology news stories" type="rss" xmlUrl="https://phys.org/rss-feed/breaking/" htmlUrl="https://phys.org/" description="Phys.org internet news portal provides the latest news on science including: Physics, Nanotechnology, Life Sciences, Space Science, Earth Science, Environment, Health and Medicine."/>
-      <outline text="Physics News - Physics News, Material Sciences, Science News, Physics" type="rss" xmlUrl="https://phys.org/rss-feed/physics-news/" htmlUrl="https://phys.org/physics-news/" description="The latest news in physics, materials science, quantum physics, optics and photonics, superconductivity science and technology.  Updated Daily."/>
-      <outline text="Planetary science news" type="rss" xmlUrl="https://phys.org/rss-feed/space-news/planetary-sciences/" htmlUrl="https://phys.org/space-news/planetary-sciences" description="Planetary science and exoplanets exploration news stories and features from Phys.org"/>
-      <outline text="Plants &amp; Animals News - Biology news" type="rss" xmlUrl="https://phys.org/rss-feed/biology-news/plants-animals/" htmlUrl="https://phys.org/biology-news/plants-animals" description="The latest science news on plants and animals"/>
-      <outline text="Plasma Physics News - Plasma physics, Partially ionized gas" type="rss" xmlUrl="https://phys.org/rss-feed/physics-news/plasma/" htmlUrl="https://phys.org/physics-news/plasma" description="The latest news on physics of plasma"/>
-      <outline text="Political science - political activities and political behavior" type="rss" xmlUrl="https://phys.org/rss-feed/science-news/political-science/" htmlUrl="https://phys.org/science-news/political-science" description="The latest news on political science"/>
-      <outline text="Polymers News - Chemistry News" type="rss" xmlUrl="https://phys.org/rss-feed/chemistry-news/polymers/" htmlUrl="https://phys.org/chemistry-news/polymers" description="The latest science news on polymers"/>
-      <outline text="Quantum Physics News" type="rss" xmlUrl="https://phys.org/rss-feed/physics-news/quantum-physics/" htmlUrl="https://phys.org/physics-news/quantum-physics" description="The latest news on quantum physics, wave particle duality, quantum theory, quantum mechanics, quantum entanglement, quantum teleportation, and quantum computing."/>
-      <outline text="Science News - Mathematics, Economics, Archaeology, Fossils" type="rss" xmlUrl="https://phys.org/rss-feed/science-news/" htmlUrl="https://phys.org/science-news/" description="The latest science news on archaeology, fossils, mathematics, and science technology from Phys.org"/>
-      <outline text="Social Sciences News - Psychology, Sociology" type="rss" xmlUrl="https://phys.org/rss-feed/science-news/social-sciences/" htmlUrl="https://phys.org/science-news/social-sciences" description="The latest news on social sciences, history, political science, psychology and sociology"/>
-      <outline text="Soft Matter News  - Soft matter, Soft condensed matter, Physics News" type="rss" xmlUrl="https://phys.org/rss-feed/physics-news/soft-matter/" htmlUrl="https://phys.org/physics-news/soft-matter" description="The latest news on soft matter, soft condensed matter, liquids, colloids, polymers, foams, gels, granular materials"/>
-      <outline text="Space Exploration News - Space News, Space Exploration, Space Science, Earth Sciences" type="rss" xmlUrl="https://phys.org/rss-feed/space-news/space-exploration/" htmlUrl="https://phys.org/space-news/space-exploration" description="Space exploration news and updates. Space missions and science news. Planet exploration and more."/>
-      <outline text="Space News - Space, Astronomy, Space Exploration" type="rss" xmlUrl="https://phys.org/rss-feed/space-news/" htmlUrl="https://phys.org/space-news/" description="The latest science news on astronomy, astrobiology,  and space exploration from Phys.org."/>
-      <outline text="STEM (science, technology, engineering, and mathematics) education" type="rss" xmlUrl="https://phys.org/rss-feed/science-news/education/" htmlUrl="https://phys.org/science-news/education" description="Phys.org provides latest news on STEM (science, technology, engineering, and mathematics) education"/>
-      <outline text="Superconductivity News - Physics News, Quantum Physics" type="rss" xmlUrl="https://phys.org/rss-feed/physics-news/superconductivity/" htmlUrl="https://phys.org/physics-news/superconductivity" description="The latest news on superconductivity"/>
-      <outline text="Veterinary medicine news" type="rss" xmlUrl="https://phys.org/rss-feed/biology-news/veterinary-medicine/" htmlUrl="https://phys.org/biology-news/veterinary-medicine" description="Veterinary medicine news stories about diseases, disorders and injuries in non-human animals"/>
+      <outline text="Agriculture news" type="rss" xmlUrl="https://phys.org/rss-feed/biology-news/agriculture/" htmlUrl="https://phys.org/biology-news/agriculture" description=""/>
+      <outline text="Analytical Chemistry News - Chemistry News" type="rss" xmlUrl="https://phys.org/rss-feed/chemistry-news/analytical-chemistry/" htmlUrl="https://phys.org/chemistry-news/analytical-chemistry" description=""/>
+      <outline text="Archaeology News" type="rss" xmlUrl="https://phys.org/rss-feed/science-news/archaeology-fossils/" htmlUrl="https://phys.org/science-news/archaeology-fossils" description=""/>
+      <outline text="Astrobiology news" type="rss" xmlUrl="https://phys.org/rss-feed/space-news/astrobiology/" htmlUrl="https://phys.org/space-news/astrobiology" description=""/>
+      <outline text="Astronomy News - Space News, Exploration News, Earth Science News, Earth Science" type="rss" xmlUrl="https://phys.org/rss-feed/space-news/astronomy/" htmlUrl="https://phys.org/space-news/astronomy" description=""/>
+      <outline text="Bio &amp; Medicine News - Nanobiology News, Nanomedicine News, Nanotech News,  Nanotechnology News" type="rss" xmlUrl="https://phys.org/rss-feed/nanotech-news/bio-medicine/" htmlUrl="https://phys.org/nanotech-news/bio-medicine" description=""/>
+      <outline text="Biochemistry News - Chemistry News" type="rss" xmlUrl="https://phys.org/rss-feed/chemistry-news/biochemistry/" htmlUrl="https://phys.org/chemistry-news/biochemistry" description=""/>
+      <outline text="Biology News - Evolution, Cell theory, Gene theory, Microbiology, Biotechnology" type="rss" xmlUrl="https://phys.org/rss-feed/biology-news/" htmlUrl="https://phys.org/biology-news/" description=""/>
+      <outline text="Biotechnology News - Biology News" type="rss" xmlUrl="https://phys.org/rss-feed/biology-news/biotechnology/" htmlUrl="https://phys.org/biology-news/biotechnology" description=""/>
+      <outline text="Cell Biology and Microbiology News - Biology news, Microbiology" type="rss" xmlUrl="https://phys.org/rss-feed/biology-news/microbiology/" htmlUrl="https://phys.org/biology-news/microbiology" description=""/>
+      <outline text="Chemistry News - Biochemistry, Polymers, Materials Science" type="rss" xmlUrl="https://phys.org/rss-feed/chemistry-news/" htmlUrl="https://phys.org/chemistry-news/" description=""/>
+      <outline text="Condensed Matter News - Physics News, Physic Materials News, Physics, Materials" type="rss" xmlUrl="https://phys.org/rss-feed/physics-news/materials/" htmlUrl="https://phys.org/physics-news/materials" description=""/>
+      <outline text="Earth News - Earth Science News, Earth Science, Climate Change" type="rss" xmlUrl="https://phys.org/rss-feed/earth-news/" htmlUrl="https://phys.org/earth-news/" description=""/>
+      <outline text="Earth Sciences News - Earth and Environmental Sciences" type="rss" xmlUrl="https://phys.org/rss-feed/earth-news/earth-sciences/" htmlUrl="https://phys.org/earth-news/earth-sciences" description=""/>
+      <outline text="Ecology News - Biology News" type="rss" xmlUrl="https://phys.org/rss-feed/biology-news/ecology/" htmlUrl="https://phys.org/biology-news/ecology" description=""/>
+      <outline text="Economics &amp; Business Research News - Science News" type="rss" xmlUrl="https://phys.org/rss-feed/science-news/economics-business/" htmlUrl="https://phys.org/science-news/economics-business" description=""/>
+      <outline text="Environmental News - Environment, Earth Sciences" type="rss" xmlUrl="https://phys.org/rss-feed/earth-news/environment/" htmlUrl="https://phys.org/earth-news/environment" description=""/>
+      <outline text="Evolution News - Biology news" type="rss" xmlUrl="https://phys.org/rss-feed/biology-news/evolution/" htmlUrl="https://phys.org/biology-news/evolution" description=""/>
+      <outline text="General Biology news" type="rss" xmlUrl="https://phys.org/rss-feed/biology-news/biology-other/" htmlUrl="https://phys.org/biology-news/biology-other" description=""/>
+      <outline text="General Physics News - Science News, Physics News, Physics, Material Sciences, Science" type="rss" xmlUrl="https://phys.org/rss-feed/physics-news/physics/" htmlUrl="https://phys.org/physics-news/physics" description=""/>
+      <outline text="General Science News -  Reviews, Analysis" type="rss" xmlUrl="https://phys.org/rss-feed/science-news/sci-other/" htmlUrl="https://phys.org/science-news/sci-other" description=""/>
+      <outline text="Materials Science News - Chemistry News" type="rss" xmlUrl="https://phys.org/rss-feed/chemistry-news/materials-science/" htmlUrl="https://phys.org/chemistry-news/materials-science" description=""/>
+      <outline text="Mathematics News - Math News, Mathematical Sciences" type="rss" xmlUrl="https://phys.org/rss-feed/science-news/mathematics/" htmlUrl="https://phys.org/science-news/mathematics" description=""/>
+      <outline text="Molecular and Computational Biology news" type="rss" xmlUrl="https://phys.org/rss-feed/biology-news/molecular-computational/" htmlUrl="https://phys.org/biology-news/molecular-computational" description=""/>
+      <outline text="Nanomaterials News - Nanomaterials, Nanoparticles, and Nanotechnology" type="rss" xmlUrl="https://phys.org/rss-feed/nanotech-news/nano-materials/" htmlUrl="https://phys.org/nanotech-news/nano-materials" description=""/>
+      <outline text="Nanophysics News - Nanotechnology News, Nanotech News" type="rss" xmlUrl="https://phys.org/rss-feed/nanotech-news/nano-physics/" htmlUrl="https://phys.org/nanotech-news/nano-physics" description=""/>
+      <outline text="Nanotechnology News - Nanoscience, Nanotechnolgy, Nanotech News" type="rss" xmlUrl="https://phys.org/rss-feed/nanotech-news/" htmlUrl="https://phys.org/nanotech-news/" description=""/>
+      <outline text="Optics &amp; Photonics News - Optics, Photonics, Physics News" type="rss" xmlUrl="https://phys.org/rss-feed/physics-news/optics-photonics/" htmlUrl="https://phys.org/physics-news/optics-photonics" description=""/>
+      <outline text="Other Chemistry News - Chemistry News" type="rss" xmlUrl="https://phys.org/rss-feed/chemistry-news/chemistry-other/" htmlUrl="https://phys.org/chemistry-news/chemistry-other" description=""/>
+      <outline text="Paleontology news" type="rss" xmlUrl="https://phys.org/rss-feed/biology-news/paleontology/" htmlUrl="https://phys.org/biology-news/paleontology" description=""/>
+      <outline text="Phys.org - latest science and technology news stories" type="rss" xmlUrl="https://phys.org/rss-feed/" htmlUrl="https://phys.org/" description=""/>
+      <outline text="Phys.org - latest science and technology news stories" type="rss" xmlUrl="https://phys.org/rss-feed/breaking/" htmlUrl="https://phys.org/" description=""/>
+      <outline text="Physics News - Physics News, Material Sciences, Science News, Physics" type="rss" xmlUrl="https://phys.org/rss-feed/physics-news/" htmlUrl="https://phys.org/physics-news/" description=""/>
+      <outline text="Planetary science news" type="rss" xmlUrl="https://phys.org/rss-feed/space-news/planetary-sciences/" htmlUrl="https://phys.org/space-news/planetary-sciences" description=""/>
+      <outline text="Plants &amp; Animals News - Biology news" type="rss" xmlUrl="https://phys.org/rss-feed/biology-news/plants-animals/" htmlUrl="https://phys.org/biology-news/plants-animals" description=""/>
+      <outline text="Plasma Physics News - Plasma physics, Partially ionized gas" type="rss" xmlUrl="https://phys.org/rss-feed/physics-news/plasma/" htmlUrl="https://phys.org/physics-news/plasma" description=""/>
+      <outline text="Political science - political activities and political behavior" type="rss" xmlUrl="https://phys.org/rss-feed/science-news/political-science/" htmlUrl="https://phys.org/science-news/political-science" description=""/>
+      <outline text="Polymers News - Chemistry News" type="rss" xmlUrl="https://phys.org/rss-feed/chemistry-news/polymers/" htmlUrl="https://phys.org/chemistry-news/polymers" description=""/>
+      <outline text="Quantum Physics News" type="rss" xmlUrl="https://phys.org/rss-feed/physics-news/quantum-physics/" htmlUrl="https://phys.org/physics-news/quantum-physics" description=""/>
+      <outline text="Science News - Mathematics, Economics, Archaeology, Fossils" type="rss" xmlUrl="https://phys.org/rss-feed/science-news/" htmlUrl="https://phys.org/science-news/" description=""/>
+      <outline text="Social Sciences News - Psychology, Sociology" type="rss" xmlUrl="https://phys.org/rss-feed/science-news/social-sciences/" htmlUrl="https://phys.org/science-news/social-sciences" description=""/>
+      <outline text="Soft Matter News  - Soft matter, Soft condensed matter, Physics News" type="rss" xmlUrl="https://phys.org/rss-feed/physics-news/soft-matter/" htmlUrl="https://phys.org/physics-news/soft-matter" description=""/>
+      <outline text="Space Exploration News - Space News, Space Exploration, Space Science, Earth Sciences" type="rss" xmlUrl="https://phys.org/rss-feed/space-news/space-exploration/" htmlUrl="https://phys.org/space-news/space-exploration" description=""/>
+      <outline text="Space News - Space, Astronomy, Space Exploration" type="rss" xmlUrl="https://phys.org/rss-feed/space-news/" htmlUrl="https://phys.org/space-news/" description=""/>
+      <outline text="STEM (science, technology, engineering, and mathematics) education" type="rss" xmlUrl="https://phys.org/rss-feed/science-news/education/" htmlUrl="https://phys.org/science-news/education" description=""/>
+      <outline text="Superconductivity News - Physics News, Quantum Physics" type="rss" xmlUrl="https://phys.org/rss-feed/physics-news/superconductivity/" htmlUrl="https://phys.org/physics-news/superconductivity" description=""/>
+      <outline text="Veterinary medicine news" type="rss" xmlUrl="https://phys.org/rss-feed/biology-news/veterinary-medicine/" htmlUrl="https://phys.org/biology-news/veterinary-medicine" description=""/>
     </outline>
     <outline text="Polygon">
       <outline text="Polygon -  All" type="rss" xmlUrl="https://www.polygon.com/rss/index.xml" htmlUrl="https://www.polygon.com/" description=""/>
@@ -309,83 +397,115 @@
       <outline text="Polygon -  Xbox" type="rss" xmlUrl="https://www.polygon.com/rss/xbox/index.xml" htmlUrl="https://www.polygon.com/xbox" description=""/>
     </outline>
     <outline text="Rock Paper Shotgun">
-      <outline text="Deals | Rock Paper Shotgun" type="rss" xmlUrl="https://www.rockpapershotgun.com/feed/deals" htmlUrl="https://www.rockpapershotgun.com/feed/deals" description="The latest Deals from Rock Paper Shotgun."/>
-      <outline text="Features | Rock Paper Shotgun" type="rss" xmlUrl="https://www.rockpapershotgun.com/feed/features" htmlUrl="https://www.rockpapershotgun.com/feed/features" description="The latest Features from Rock Paper Shotgun."/>
-      <outline text="Guides | Rock Paper Shotgun" type="rss" xmlUrl="https://www.rockpapershotgun.com/feed/guides" htmlUrl="https://www.rockpapershotgun.com/feed/guides" description="The latest Guides from Rock Paper Shotgun."/>
-      <outline text="Latest Articles | Rock Paper Shotgun" type="rss" xmlUrl="https://www.rockpapershotgun.com/feed" htmlUrl="https://www.rockpapershotgun.com/feed" description="This is a feed of the latest articles from Rock Paper Shotgun."/>
-      <outline text="News | Rock Paper Shotgun" type="rss" xmlUrl="https://www.rockpapershotgun.com/feed/news" htmlUrl="https://www.rockpapershotgun.com/feed/news" description="The latest News from Rock Paper Shotgun."/>
-      <outline text="Podcasts | Rock Paper Shotgun" type="rss" xmlUrl="https://www.rockpapershotgun.com/feed/podcasts" htmlUrl="https://www.rockpapershotgun.com/feed/podcasts" description="The latest Podcasts from Rock Paper Shotgun."/>
-      <outline text="Reviews | Rock Paper Shotgun" type="rss" xmlUrl="https://www.rockpapershotgun.com/feed/reviews" htmlUrl="https://www.rockpapershotgun.com/feed/reviews" description="The latest Reviews from Rock Paper Shotgun."/>
-      <outline text="Videos | Rock Paper Shotgun" type="rss" xmlUrl="https://www.rockpapershotgun.com/feed/videos" htmlUrl="https://www.rockpapershotgun.com/feed/videos" description="The latest Videos from Rock Paper Shotgun."/>
+      <outline text="Deals | Rock Paper Shotgun" type="rss" xmlUrl="https://www.rockpapershotgun.com/feed/deals" htmlUrl="https://www.rockpapershotgun.com/feed/deals" description=""/>
+      <outline text="Features | Rock Paper Shotgun" type="rss" xmlUrl="https://www.rockpapershotgun.com/feed/features" htmlUrl="https://www.rockpapershotgun.com/feed/features" description=""/>
+      <outline text="Guides | Rock Paper Shotgun" type="rss" xmlUrl="https://www.rockpapershotgun.com/feed/guides" htmlUrl="https://www.rockpapershotgun.com/feed/guides" description=""/>
+      <outline text="Latest Articles | Rock Paper Shotgun" type="rss" xmlUrl="https://www.rockpapershotgun.com/feed" htmlUrl="https://www.rockpapershotgun.com/feed" description=""/>
+      <outline text="News | Rock Paper Shotgun" type="rss" xmlUrl="https://www.rockpapershotgun.com/feed/news" htmlUrl="https://www.rockpapershotgun.com/feed/news" description=""/>
+      <outline text="Podcasts | Rock Paper Shotgun" type="rss" xmlUrl="https://www.rockpapershotgun.com/feed/podcasts" htmlUrl="https://www.rockpapershotgun.com/feed/podcasts" description=""/>
+      <outline text="Reviews | Rock Paper Shotgun" type="rss" xmlUrl="https://www.rockpapershotgun.com/feed/reviews" htmlUrl="https://www.rockpapershotgun.com/feed/reviews" description=""/>
+      <outline text="Videos | Rock Paper Shotgun" type="rss" xmlUrl="https://www.rockpapershotgun.com/feed/videos" htmlUrl="https://www.rockpapershotgun.com/feed/videos" description=""/>
+    </outline>
+    <outline text="Science Alert">
+      <outline text="Environment : ScienceAlert - The Best in Science News And Amazing Breakthroughs" type="rss" xmlUrl="https://www.sciencealert.com/environment/feed" htmlUrl="https://www.sciencealert.com/environment/feed" description=""/>
+      <outline text="Explainer : ScienceAlert - The Best in Science News And Amazing Breakthroughs" type="rss" xmlUrl="https://www.sciencealert.com/explainer/feed" htmlUrl="https://www.sciencealert.com/explainer/feed" description=""/>
+      <outline text="Health : ScienceAlert - The Best in Science News And Amazing Breakthroughs" type="rss" xmlUrl="https://www.sciencealert.com/health/feed" htmlUrl="https://www.sciencealert.com/health/feed" description=""/>
+      <outline text="Humans : ScienceAlert - The Best in Science News And Amazing Breakthroughs" type="rss" xmlUrl="https://www.sciencealert.com/humans/feed" htmlUrl="https://www.sciencealert.com/humans/feed" description=""/>
+      <outline text="Nature : ScienceAlert - The Best in Science News And Amazing Breakthroughs" type="rss" xmlUrl="https://www.sciencealert.com/nature/feed" htmlUrl="https://www.sciencealert.com/nature/feed" description=""/>
+      <outline text="Opinion : ScienceAlert - The Best in Science News And Amazing Breakthroughs" type="rss" xmlUrl="https://www.sciencealert.com/opinion/feed" htmlUrl="https://www.sciencealert.com/opinion/feed" description=""/>
+      <outline text="Physics : ScienceAlert - The Best in Science News And Amazing Breakthroughs" type="rss" xmlUrl="https://www.sciencealert.com/physics/feed" htmlUrl="https://www.sciencealert.com/physics/feed" description=""/>
+      <outline text="ScienceAlert" type="rss" xmlUrl="https://www.sciencealert.com/feed" htmlUrl="https://www.sciencealert.com/feed" description=""/>
+      <outline text="Society : ScienceAlert - The Best in Science News And Amazing Breakthroughs" type="rss" xmlUrl="https://www.sciencealert.com/society/feed" htmlUrl="https://www.sciencealert.com/society/feed" description=""/>
+      <outline text="Space : ScienceAlert - The Best in Science News And Amazing Breakthroughs" type="rss" xmlUrl="https://www.sciencealert.com/space/feed" htmlUrl="https://www.sciencealert.com/space/feed" description=""/>
+      <outline text="Tech : ScienceAlert - The Best in Science News And Amazing Breakthroughs" type="rss" xmlUrl="https://www.sciencealert.com/tech/feed" htmlUrl="https://www.sciencealert.com/tech/feed" description=""/>
     </outline>
     <outline text="Science Magazine">
-      <outline text="AAAS: Science: Table of Contents" type="rss" xmlUrl="https://www.science.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=science" htmlUrl="https://www.science.org/loi/science?af=R" description="Table of Contents for Science. List of articles from both the latest and ahead of print issues."/>
-      <outline text="AAAS: Science Advances: Table of Contents" type="rss" xmlUrl="https://www.science.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=sciadv" htmlUrl="https://www.science.org/loi/sciadv?af=R" description="Table of Contents for Science Advances. List of articles from both the latest and ahead of print issues."/>
-      <outline text="AAAS: Science Immunology: Table of Contents" type="rss" xmlUrl="https://www.science.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=sciimmunol" htmlUrl="https://www.science.org/loi/sciimmunol?af=R" description="Table of Contents for Science Immunology. List of articles from both the latest and ahead of print issues."/>
-      <outline text="AAAS: Science Robotics: Table of Contents" type="rss" xmlUrl="https://www.science.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=scirobotics" htmlUrl="https://www.science.org/loi/scirobotics?af=R" description="Table of Contents for Science Robotics. List of articles from both the latest and ahead of print issues."/>
-      <outline text="AAAS: Science Signaling: Table of Contents" type="rss" xmlUrl="https://www.science.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=signaling" htmlUrl="https://www.science.org/loi/signaling?af=R" description="Table of Contents for Science Signaling. List of articles from both the latest and ahead of print issues."/>
-      <outline text="AAAS: Science Translational Medicine: Table of Contents" type="rss" xmlUrl="https://www.science.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=stm" htmlUrl="https://www.science.org/loi/stm?af=R" description="Table of Contents for Science Translational Medicine. List of articles from both the latest and ahead of print issues."/>
-      <outline text="AAAS: Table of Contents" type="rss" xmlUrl="https://www.science.org/action/showFeed?type=axatoc&amp;feed=rss&amp;jc=science" htmlUrl="https://www.science.org/?af=R" description="Table of Contents for Science. List of articles from ahead of print issues."/>
-      <outline text="Latest News from Science Magazine" type="rss" xmlUrl="https://www.science.org/rss/news_current.xml" htmlUrl="https://www.science.org/" description="Keyword search result for Alerts: News Weekly Headlines -- New results matching your keyword search query (updated daily)."/>
-      <outline text="Science Magazine Podcast" type="rss" xmlUrl="https://www.omnycontent.com/d/playlist/e763ee7a-311f-4004-8c05-ad8a0018d51b/68fe80a5-856c-4341-9f13-ada1016db982/dddf1674-4d7d-4aaf-a7f9-ada1016db98c/podcast.rss" htmlUrl="https://www.sciencemag.org/" description="Weekly podcasts from Science Magazine, the world's leading journal of original scientific research, global news, and commentary."/>
+      <outline text="AAAS: Science: Table of Contents" type="rss" xmlUrl="https://www.science.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=science" htmlUrl="https://www.science.org/loi/science?af=R" description=""/>
+      <outline text="AAAS: Science Advances: Table of Contents" type="rss" xmlUrl="https://www.science.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=sciadv" htmlUrl="https://www.science.org/loi/sciadv?af=R" description=""/>
+      <outline text="AAAS: Science Immunology: Table of Contents" type="rss" xmlUrl="https://www.science.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=sciimmunol" htmlUrl="https://www.science.org/loi/sciimmunol?af=R" description=""/>
+      <outline text="AAAS: Science Robotics: Table of Contents" type="rss" xmlUrl="https://www.science.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=scirobotics" htmlUrl="https://www.science.org/loi/scirobotics?af=R" description=""/>
+      <outline text="AAAS: Science Signaling: Table of Contents" type="rss" xmlUrl="https://www.science.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=signaling" htmlUrl="https://www.science.org/loi/signaling?af=R" description=""/>
+      <outline text="AAAS: Science Translational Medicine: Table of Contents" type="rss" xmlUrl="https://www.science.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=stm" htmlUrl="https://www.science.org/loi/stm?af=R" description=""/>
+      <outline text="AAAS: Table of Contents" type="rss" xmlUrl="https://www.science.org/action/showFeed?type=axatoc&amp;feed=rss&amp;jc=science" htmlUrl="https://www.science.org/?af=R" description=""/>
+      <outline text="Latest News from Science Magazine" type="rss" xmlUrl="https://www.science.org/rss/news_current.xml" htmlUrl="https://www.science.org/" description=""/>
+      <outline text="Science Magazine Podcast" type="rss" xmlUrl="https://www.omnycontent.com/d/playlist/e763ee7a-311f-4004-8c05-ad8a0018d51b/68fe80a5-856c-4341-9f13-ada1016db982/dddf1674-4d7d-4aaf-a7f9-ada1016db98c/podcast.rss" htmlUrl="https://www.sciencemag.org/" description=""/>
     </outline>
     <outline text="Science News">
-      <outline text="Agriculture – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/agriculture/feed" htmlUrl="https://www.sciencenews.org/" description="INDEPENDENT JOURNALISM SINCE 1921"/>
-      <outline text="Animals – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/animals/feed" htmlUrl="https://www.sciencenews.org/" description="INDEPENDENT JOURNALISM SINCE 1921"/>
-      <outline text="Anthropology – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/anthropology/feed" htmlUrl="https://www.sciencenews.org/" description="INDEPENDENT JOURNALISM SINCE 1921"/>
-      <outline text="Archaeology – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/archaeology/feed" htmlUrl="https://www.sciencenews.org/" description="INDEPENDENT JOURNALISM SINCE 1921"/>
-      <outline text="Artificial Intelligence – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/artificial-intelligence/feed" htmlUrl="https://www.sciencenews.org/" description="INDEPENDENT JOURNALISM SINCE 1921"/>
-      <outline text="Astronomy – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/astronomy/feed" htmlUrl="https://www.sciencenews.org/" description="INDEPENDENT JOURNALISM SINCE 1921"/>
-      <outline text="Chemistry – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/chemistry/feed" htmlUrl="https://www.sciencenews.org/" description="INDEPENDENT JOURNALISM SINCE 1921"/>
-      <outline text="Climate – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/climate/feed" htmlUrl="https://www.sciencenews.org/" description="INDEPENDENT JOURNALISM SINCE 1921"/>
-      <outline text="Computing – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/computing/feed" htmlUrl="https://www.sciencenews.org/" description="INDEPENDENT JOURNALISM SINCE 1921"/>
-      <outline text="Cosmology – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/cosmology/feed" htmlUrl="https://www.sciencenews.org/" description="INDEPENDENT JOURNALISM SINCE 1921"/>
-      <outline text="Earth – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/earth/feed" htmlUrl="https://www.sciencenews.org/" description="INDEPENDENT JOURNALISM SINCE 1921"/>
-      <outline text="Ecosystems – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/ecosystems/feed" htmlUrl="https://www.sciencenews.org/" description="INDEPENDENT JOURNALISM SINCE 1921"/>
-      <outline text="Environment – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/environment/feed" htmlUrl="https://www.sciencenews.org/" description="INDEPENDENT JOURNALISM SINCE 1921"/>
-      <outline text="Genetics – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/genetics/feed" htmlUrl="https://www.sciencenews.org/" description="INDEPENDENT JOURNALISM SINCE 1921"/>
-      <outline text="Health &amp; Medicine – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/health-medicine/feed" htmlUrl="https://www.sciencenews.org/" description="INDEPENDENT JOURNALISM SINCE 1921"/>
-      <outline text="Humans – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/humans/feed" htmlUrl="https://www.sciencenews.org/" description="INDEPENDENT JOURNALISM SINCE 1921"/>
-      <outline text="Life – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/life/feed" htmlUrl="https://www.sciencenews.org/" description="INDEPENDENT JOURNALISM SINCE 1921"/>
-      <outline text="Materials Science – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/materials-science/feed" htmlUrl="https://www.sciencenews.org/" description="INDEPENDENT JOURNALISM SINCE 1921"/>
-      <outline text="Math – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/math/feed" htmlUrl="https://www.sciencenews.org/" description="INDEPENDENT JOURNALISM SINCE 1921"/>
-      <outline text="Microbes – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/microbes/feed" htmlUrl="https://www.sciencenews.org/" description="INDEPENDENT JOURNALISM SINCE 1921"/>
-      <outline text="Neuroscience – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/neuroscience/feed" htmlUrl="https://www.sciencenews.org/" description="INDEPENDENT JOURNALISM SINCE 1921"/>
-      <outline text="Oceans – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/oceans/feed" htmlUrl="https://www.sciencenews.org/" description="INDEPENDENT JOURNALISM SINCE 1921"/>
-      <outline text="Paleontology – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/paleontology/feed" htmlUrl="https://www.sciencenews.org/" description="INDEPENDENT JOURNALISM SINCE 1921"/>
-      <outline text="Particle Physics – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/particle-physics/feed" htmlUrl="https://www.sciencenews.org/" description="INDEPENDENT JOURNALISM SINCE 1921"/>
-      <outline text="Physics – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/physics/feed" htmlUrl="https://www.sciencenews.org/" description="INDEPENDENT JOURNALISM SINCE 1921"/>
-      <outline text="Planetary Science – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/planetary-science/feed" htmlUrl="https://www.sciencenews.org/" description="INDEPENDENT JOURNALISM SINCE 1921"/>
-      <outline text="Plants – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/plants/feed" htmlUrl="https://www.sciencenews.org/" description="INDEPENDENT JOURNALISM SINCE 1921"/>
-      <outline text="Psychology – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/psychology/feed" htmlUrl="https://www.sciencenews.org/" description="INDEPENDENT JOURNALISM SINCE 1921"/>
-      <outline text="Quantum Physics – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/quantum-physics/feed" htmlUrl="https://www.sciencenews.org/" description="INDEPENDENT JOURNALISM SINCE 1921"/>
-      <outline text="Science &amp; Society – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/science-society/feed" htmlUrl="https://www.sciencenews.org/" description="INDEPENDENT JOURNALISM SINCE 1921"/>
-      <outline text="Space – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/space/feed" htmlUrl="https://www.sciencenews.org/" description="INDEPENDENT JOURNALISM SINCE 1921"/>
-      <outline text="Tech – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/tech/feed" htmlUrl="https://www.sciencenews.org/" description="INDEPENDENT JOURNALISM SINCE 1921"/>
+      <outline text="Agriculture – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/agriculture/feed" htmlUrl="https://www.sciencenews.org/" description=""/>
+      <outline text="Animals – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/animals/feed" htmlUrl="https://www.sciencenews.org/" description=""/>
+      <outline text="Anthropology – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/anthropology/feed" htmlUrl="https://www.sciencenews.org/" description=""/>
+      <outline text="Archaeology – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/archaeology/feed" htmlUrl="https://www.sciencenews.org/" description=""/>
+      <outline text="Artificial Intelligence – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/artificial-intelligence/feed" htmlUrl="https://www.sciencenews.org/" description=""/>
+      <outline text="Astronomy – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/astronomy/feed" htmlUrl="https://www.sciencenews.org/" description=""/>
+      <outline text="Chemistry – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/chemistry/feed" htmlUrl="https://www.sciencenews.org/" description=""/>
+      <outline text="Climate – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/climate/feed" htmlUrl="https://www.sciencenews.org/" description=""/>
+      <outline text="Computing – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/computing/feed" htmlUrl="https://www.sciencenews.org/" description=""/>
+      <outline text="Cosmology – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/cosmology/feed" htmlUrl="https://www.sciencenews.org/" description=""/>
+      <outline text="Earth – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/earth/feed" htmlUrl="https://www.sciencenews.org/" description=""/>
+      <outline text="Ecosystems – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/ecosystems/feed" htmlUrl="https://www.sciencenews.org/" description=""/>
+      <outline text="Environment – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/environment/feed" htmlUrl="https://www.sciencenews.org/" description=""/>
+      <outline text="Genetics – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/genetics/feed" htmlUrl="https://www.sciencenews.org/" description=""/>
+      <outline text="Health &amp; Medicine – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/health-medicine/feed" htmlUrl="https://www.sciencenews.org/" description=""/>
+      <outline text="Humans – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/humans/feed" htmlUrl="https://www.sciencenews.org/" description=""/>
+      <outline text="Life – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/life/feed" htmlUrl="https://www.sciencenews.org/" description=""/>
+      <outline text="Materials Science – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/materials-science/feed" htmlUrl="https://www.sciencenews.org/" description=""/>
+      <outline text="Math – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/math/feed" htmlUrl="https://www.sciencenews.org/" description=""/>
+      <outline text="Microbes – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/microbes/feed" htmlUrl="https://www.sciencenews.org/" description=""/>
+      <outline text="Neuroscience – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/neuroscience/feed" htmlUrl="https://www.sciencenews.org/" description=""/>
+      <outline text="Oceans – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/oceans/feed" htmlUrl="https://www.sciencenews.org/" description=""/>
+      <outline text="Paleontology – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/paleontology/feed" htmlUrl="https://www.sciencenews.org/" description=""/>
+      <outline text="Particle Physics – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/particle-physics/feed" htmlUrl="https://www.sciencenews.org/" description=""/>
+      <outline text="Physics – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/physics/feed" htmlUrl="https://www.sciencenews.org/" description=""/>
+      <outline text="Planetary Science – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/planetary-science/feed" htmlUrl="https://www.sciencenews.org/" description=""/>
+      <outline text="Plants – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/plants/feed" htmlUrl="https://www.sciencenews.org/" description=""/>
+      <outline text="Psychology – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/psychology/feed" htmlUrl="https://www.sciencenews.org/" description=""/>
+      <outline text="Quantum Physics – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/quantum-physics/feed" htmlUrl="https://www.sciencenews.org/" description=""/>
+      <outline text="Science &amp; Society – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/science-society/feed" htmlUrl="https://www.sciencenews.org/" description=""/>
+      <outline text="Space – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/space/feed" htmlUrl="https://www.sciencenews.org/" description=""/>
+      <outline text="Tech – Science News" type="rss" xmlUrl="https://www.sciencenews.org/topic/tech/feed" htmlUrl="https://www.sciencenews.org/" description=""/>
     </outline>
     <outline text="Smithsonian Magazine">
-      <outline text="Arts &amp; Culture | smithsonianmag.com" type="rss" xmlUrl="https://www.smithsonianmag.com/rss/arts-culture/" htmlUrl="https://www.smithsonianmag.com/rss/arts-culture/" description="RSS feed for Arts &amp; Culture"/>
-      <outline text="At the Smithsonian | smithsonianmag.com" type="rss" xmlUrl="https://www.smithsonianmag.com/rss/smithsonian-institution/" htmlUrl="https://www.smithsonianmag.com/rss/smithsonian-institution/" description="RSS feed for At the Smithsonian"/>
-      <outline text="History | smithsonianmag.com" type="rss" xmlUrl="https://www.smithsonianmag.com/rss/history/" htmlUrl="https://www.smithsonianmag.com/rss/history/" description="RSS feed for History"/>
-      <outline text="Innovation | smithsonianmag.com" type="rss" xmlUrl="https://www.smithsonianmag.com/rss/innovation/" htmlUrl="https://www.smithsonianmag.com/rss/innovation/" description="RSS feed for Innovation"/>
-      <outline text="Latest articles | smithsonianmag.com" type="rss" xmlUrl="https://www.smithsonianmag.com/rss/latest_articles/" htmlUrl="https://www.smithsonianmag.com/rss/latest_articles/" description="RSS feed for with the latest articles"/>
-      <outline text="Science | smithsonianmag.com" type="rss" xmlUrl="https://www.smithsonianmag.com/rss/science-nature/" htmlUrl="https://www.smithsonianmag.com/rss/science-nature/" description="RSS feed for Science"/>
-      <outline text="Smart News | smithsonianmag.com" type="rss" xmlUrl="https://www.smithsonianmag.com/rss/smart-news/" htmlUrl="https://www.smithsonianmag.com/rss/smart-news/" description="RSS feed for Smart News"/>
-      <outline text="Travel | smithsonianmag.com" type="rss" xmlUrl="https://www.smithsonianmag.com/rss/travel/" htmlUrl="https://www.smithsonianmag.com/rss/travel/" description="RSS feed for Travel"/>
+      <outline text="Arts &amp; Culture | smithsonianmag.com" type="rss" xmlUrl="https://www.smithsonianmag.com/rss/arts-culture/" htmlUrl="https://www.smithsonianmag.com/rss/arts-culture/" description=""/>
+      <outline text="At the Smithsonian | smithsonianmag.com" type="rss" xmlUrl="https://www.smithsonianmag.com/rss/smithsonian-institution/" htmlUrl="https://www.smithsonianmag.com/rss/smithsonian-institution/" description=""/>
+      <outline text="History | smithsonianmag.com" type="rss" xmlUrl="https://www.smithsonianmag.com/rss/history/" htmlUrl="https://www.smithsonianmag.com/rss/history/" description=""/>
+      <outline text="Innovation | smithsonianmag.com" type="rss" xmlUrl="https://www.smithsonianmag.com/rss/innovation/" htmlUrl="https://www.smithsonianmag.com/rss/innovation/" description=""/>
+      <outline text="Latest articles | smithsonianmag.com" type="rss" xmlUrl="https://www.smithsonianmag.com/rss/latest_articles/" htmlUrl="https://www.smithsonianmag.com/rss/latest_articles/" description=""/>
+      <outline text="Science | smithsonianmag.com" type="rss" xmlUrl="https://www.smithsonianmag.com/rss/science-nature/" htmlUrl="https://www.smithsonianmag.com/rss/science-nature/" description=""/>
+      <outline text="Smart News | smithsonianmag.com" type="rss" xmlUrl="https://www.smithsonianmag.com/rss/smart-news/" htmlUrl="https://www.smithsonianmag.com/rss/smart-news/" description=""/>
+      <outline text="Travel | smithsonianmag.com" type="rss" xmlUrl="https://www.smithsonianmag.com/rss/travel/" htmlUrl="https://www.smithsonianmag.com/rss/travel/" description=""/>
+    </outline>
+    <outline text="Sydney Morning Herald">
+      <outline text="AFL" type="rss" xmlUrl="https://www.smh.com.au/rss/sport/afl.xml" htmlUrl="https://www.smh.com.au/rss/sport/afl.xml" description=""/>
+      <outline text="Business" type="rss" xmlUrl="https://www.smh.com.au/rss/business.xml" htmlUrl="https://www.smh.com.au/rss/business.xml" description=""/>
+      <outline text="Culture" type="rss" xmlUrl="https://www.smh.com.au/rss/culture.xml" htmlUrl="https://www.smh.com.au/rss/culture.xml" description=""/>
+      <outline text="Environment" type="rss" xmlUrl="https://www.smh.com.au/rss/environment.xml" htmlUrl="https://www.smh.com.au/rss/environment.xml" description=""/>
+      <outline text="Federal Politics" type="rss" xmlUrl="https://www.smh.com.au/rss/politics/federal.xml" htmlUrl="https://www.smh.com.au/rss/politics/federal.xml" description=""/>
+      <outline text="Good Food" type="rss" xmlUrl="https://www.smh.com.au/rss/goodfood.xml" htmlUrl="https://www.smh.com.au/rss/goodfood.xml" description=""/>
+      <outline text="Latest News" type="rss" xmlUrl="https://www.smh.com.au/rss/feed.xml" htmlUrl="https://www.smh.com.au/rss/feed.xml" description=""/>
+      <outline text="Lifestyle" type="rss" xmlUrl="https://www.smh.com.au/rss/lifestyle.xml" htmlUrl="https://www.smh.com.au/rss/lifestyle.xml" description=""/>
+      <outline text="National" type="rss" xmlUrl="https://www.smh.com.au/rss/national.xml" htmlUrl="https://www.smh.com.au/rss/national.xml" description=""/>
+      <outline text="NSW News" type="rss" xmlUrl="https://www.smh.com.au/rss/national/nsw.xml" htmlUrl="https://www.smh.com.au/rss/national/nsw.xml" description=""/>
+      <outline text="Property" type="rss" xmlUrl="https://www.smh.com.au/rss/property.xml" htmlUrl="https://www.smh.com.au/rss/property.xml" description=""/>
+      <outline text="Rugby League" type="rss" xmlUrl="https://www.smh.com.au/rss/sport/nrl.xml" htmlUrl="https://www.smh.com.au/rss/sport/nrl.xml" description=""/>
+      <outline text="Rugby Union" type="rss" xmlUrl="https://www.smh.com.au/rss/sport/rugby-union.xml" htmlUrl="https://www.smh.com.au/rss/sport/rugby-union.xml" description=""/>
+      <outline text="Sport" type="rss" xmlUrl="https://www.smh.com.au/rss/sport.xml" htmlUrl="https://www.smh.com.au/rss/sport.xml" description=""/>
+      <outline text="Technology" type="rss" xmlUrl="https://www.smh.com.au/rss/technology.xml" htmlUrl="https://www.smh.com.au/rss/technology.xml" description=""/>
+      <outline text="Traveller" type="rss" xmlUrl="https://www.smh.com.au/rss/traveller.xml" htmlUrl="https://www.smh.com.au/rss/traveller.xml" description=""/>
+      <outline text="World" type="rss" xmlUrl="https://www.smh.com.au/rss/world.xml" htmlUrl="https://www.smh.com.au/rss/world.xml" description=""/>
     </outline>
     <outline text="Techcrunch">
-      <outline text="AI | TechCrunch" type="rss" xmlUrl="https://techcrunch.com/category/artificial-intelligence/feed/" htmlUrl="https://techcrunch.com/category/artificial-intelligence/" description="Startup and Technology News"/>
-      <outline text="Apps News and Coverage | TechCrunch" type="rss" xmlUrl="https://techcrunch.com/category/apps/feed/" htmlUrl="https://techcrunch.com/category/apps/" description="Startup and Technology News"/>
-      <outline text="Crypto | TechCrunch" type="rss" xmlUrl="https://techcrunch.com/category/cryptocurrency/feed/" htmlUrl="https://techcrunch.com/category/cryptocurrency/" description="Startup and Technology News"/>
-      <outline text="Events | TechCrunch" type="rss" xmlUrl="https://techcrunch.com/events/feed/" htmlUrl="https://techcrunch.com/events/" description="Startup and Technology News"/>
-      <outline text="Fintech | TechCrunch" type="rss" xmlUrl="https://techcrunch.com/category/fintech/feed/" htmlUrl="https://techcrunch.com/category/fintech/" description="Startup and Technology News"/>
-      <outline text="Hardware | TechCrunch" type="rss" xmlUrl="https://techcrunch.com/category/hardware/feed/" htmlUrl="https://techcrunch.com/category/hardware/" description="Startup and Technology News"/>
-      <outline text="Media &amp; Entertainment | TechCrunch" type="rss" xmlUrl="https://techcrunch.com/category/media-entertainment/feed/" htmlUrl="https://techcrunch.com/category/media-entertainment/" description="Startup and Technology News"/>
-      <outline text="Security | TechCrunch" type="rss" xmlUrl="https://techcrunch.com/category/security/feed/" htmlUrl="https://techcrunch.com/category/security/" description="Startup and Technology News"/>
-      <outline text="Startups | TechCrunch" type="rss" xmlUrl="https://techcrunch.com/category/startups/feed/" htmlUrl="https://techcrunch.com/category/startups/" description="Startup and Technology News"/>
-      <outline text="TechCrunch" type="rss" xmlUrl="https://techcrunch.com/feed/" htmlUrl="https://techcrunch.com/" description="Startup and Technology News"/>
-      <outline text="Transportation | TechCrunch" type="rss" xmlUrl="https://techcrunch.com/category/transportation/feed/" htmlUrl="https://techcrunch.com/category/transportation/" description="Startup and Technology News"/>
-      <outline text="Venture | TechCrunch" type="rss" xmlUrl="https://techcrunch.com/category/venture/feed/" htmlUrl="https://techcrunch.com/category/venture/" description="Startup and Technology News"/>
+      <outline text="AI | TechCrunch" type="rss" xmlUrl="https://techcrunch.com/category/artificial-intelligence/feed/" htmlUrl="https://techcrunch.com/category/artificial-intelligence/" description=""/>
+      <outline text="Apps News and Coverage | TechCrunch" type="rss" xmlUrl="https://techcrunch.com/category/apps/feed/" htmlUrl="https://techcrunch.com/category/apps/" description=""/>
+      <outline text="Crypto | TechCrunch" type="rss" xmlUrl="https://techcrunch.com/category/cryptocurrency/feed/" htmlUrl="https://techcrunch.com/category/cryptocurrency/" description=""/>
+      <outline text="Events | TechCrunch" type="rss" xmlUrl="https://techcrunch.com/events/feed/" htmlUrl="https://techcrunch.com/events/" description=""/>
+      <outline text="Fintech | TechCrunch" type="rss" xmlUrl="https://techcrunch.com/category/fintech/feed/" htmlUrl="https://techcrunch.com/category/fintech/" description=""/>
+      <outline text="Hardware | TechCrunch" type="rss" xmlUrl="https://techcrunch.com/category/hardware/feed/" htmlUrl="https://techcrunch.com/category/hardware/" description=""/>
+      <outline text="Media &amp; Entertainment | TechCrunch" type="rss" xmlUrl="https://techcrunch.com/category/media-entertainment/feed/" htmlUrl="https://techcrunch.com/category/media-entertainment/" description=""/>
+      <outline text="Security | TechCrunch" type="rss" xmlUrl="https://techcrunch.com/category/security/feed/" htmlUrl="https://techcrunch.com/category/security/" description=""/>
+      <outline text="Startups | TechCrunch" type="rss" xmlUrl="https://techcrunch.com/category/startups/feed/" htmlUrl="https://techcrunch.com/category/startups/" description=""/>
+      <outline text="TechCrunch" type="rss" xmlUrl="https://techcrunch.com/feed/" htmlUrl="https://techcrunch.com/" description=""/>
+      <outline text="Transportation | TechCrunch" type="rss" xmlUrl="https://techcrunch.com/category/transportation/feed/" htmlUrl="https://techcrunch.com/category/transportation/" description=""/>
+      <outline text="Venture | TechCrunch" type="rss" xmlUrl="https://techcrunch.com/category/venture/feed/" htmlUrl="https://techcrunch.com/category/venture/" description=""/>
     </outline>
     <outline text="TechRadar">
       <outline text="All | TechRadar" type="rss" xmlUrl="https://www.techradar.com/rss" htmlUrl="https://www.techradar.com/rss" description=""/>
@@ -414,6 +534,35 @@
       <outline text="Video | TechRadar" type="rss" xmlUrl="https://www.techradar.com/rss/news/video" htmlUrl="https://www.techradar.com/rss/news/video" description=""/>
       <outline text="World of Tech | TechRadar" type="rss" xmlUrl="https://www.techradar.com/rss/news/world-of-tech" htmlUrl="https://www.techradar.com/rss/news/world-of-tech" description=""/>
     </outline>
+    <outline text="TechXplore">
+      <outline text="Automotive Industry news" type="rss" xmlUrl="https://techxplore.com/rss-feed/automotive-news/" htmlUrl="https://techxplore.com/automotive-news/" description=""/>
+      <outline text="Computer Science News | Technology News | Computer Science Technology | Computer Sciences" type="rss" xmlUrl="https://techxplore.com/rss-feed/computer-sciences-news/" htmlUrl="https://techxplore.com/computer-sciences-news/" description=""/>
+      <outline text="Consumer Electronics News - Electronics News, Electronic Gadget News | Consumer Electronics |Electronic Gadgets" type="rss" xmlUrl="https://techxplore.com/rss-feed/consumer-gadgets-news/" htmlUrl="https://techxplore.com/consumer-gadgets-news/" description=""/>
+      <outline text="Electronics &amp; Semiconductors Technology News" type="rss" xmlUrl="https://techxplore.com/rss-feed/semiconductors-news/" htmlUrl="https://techxplore.com/semiconductors-news/" description=""/>
+      <outline text="Energy &amp; Green Tech News - Energy Sciences News, Green Tech, Energy, Energy Science" type="rss" xmlUrl="https://techxplore.com/rss-feed/energy-green-tech-news/" htmlUrl="https://techxplore.com/energy-green-tech-news/" description=""/>
+      <outline text="Engineering Technology News - Engineering News, Technology News, Technology, Engineering" type="rss" xmlUrl="https://techxplore.com/rss-feed/engineering-news/" htmlUrl="https://techxplore.com/engineering-news/" description=""/>
+      <outline text="Hardware News - Electronic Hardware News, Hardware, Electronics" type="rss" xmlUrl="https://techxplore.com/rss-feed/hardware-news/" htmlUrl="https://techxplore.com/hardware-news/" description=""/>
+      <outline text="Hi-Tech Innovation News - Information Technology, Inventions News" type="rss" xmlUrl="https://techxplore.com/rss-feed/hi-tech-news/" htmlUrl="https://techxplore.com/hi-tech-news/" description=""/>
+      <outline text="Internet News - Technology News, Internet, World Wide Web" type="rss" xmlUrl="https://techxplore.com/rss-feed/internet-news/" htmlUrl="https://techxplore.com/internet-news/" description=""/>
+      <outline text="News on Artificial Intelligence and Machine Learning" type="rss" xmlUrl="https://techxplore.com/rss-feed/machine-learning-ai-news/" htmlUrl="https://techxplore.com/machine-learning-ai-news/" description=""/>
+      <outline text="Robotics News - Robot News, Robotics, Robots, Robotics Sciences" type="rss" xmlUrl="https://techxplore.com/rss-feed/robotics-news/" htmlUrl="https://techxplore.com/robotics-news/" description=""/>
+      <outline text="Security News - Software vulnerabilities, data leaks, malware, viruses" type="rss" xmlUrl="https://techxplore.com/rss-feed/security-news/" htmlUrl="https://techxplore.com/security-news/" description=""/>
+      <outline text="Software News - Software Development News, Internet, World Wide Web" type="rss" xmlUrl="https://techxplore.com/rss-feed/software-news/" htmlUrl="https://techxplore.com/software-news/" description=""/>
+      <outline text="Technology Business News - Technology News, Technology Companies, Technology Business" type="rss" xmlUrl="https://techxplore.com/rss-feed/business-tech-news/" htmlUrl="https://techxplore.com/business-tech-news/" description=""/>
+      <outline text="Tech Xplore - electronic gadgets, technology advances and research news" type="rss" xmlUrl="https://techxplore.com/rss-feed/" htmlUrl="https://techxplore.com/" description=""/>
+      <outline text="Tech Xplore - electronic gadgets, technology advances and research news" type="rss" xmlUrl="https://techxplore.com/rss-feed/breaking/" htmlUrl="https://techxplore.com/" description=""/>
+      <outline text="Telecommunications News - Telecom News, Telecommunications, Telecom" type="rss" xmlUrl="https://techxplore.com/rss-feed/telecom-news/" htmlUrl="https://techxplore.com/telecom-news/" description=""/>
+    </outline>
+    <outline text="The Collector">
+      <outline text="Ancient History |TheCollector" type="rss" xmlUrl="https://www.thecollector.com/ancient-history/rss/" htmlUrl="https://www.thecollector.com/" description=""/>
+      <outline text="Artists | TheCollector" type="rss" xmlUrl="https://www.thecollector.com/artists/rss/" htmlUrl="https://www.thecollector.com/" description=""/>
+      <outline text="Art | TheCollector" type="rss" xmlUrl="https://www.thecollector.com/art/rss/" htmlUrl="https://www.thecollector.com/" description=""/>
+      <outline text="Collecting | TheCollector" type="rss" xmlUrl="https://www.thecollector.com/collecting/rss/" htmlUrl="https://www.thecollector.com/" description=""/>
+      <outline text="Main feed | TheCollector" type="rss" xmlUrl="https://www.thecollector.com/rss/" htmlUrl="https://www.thecollector.com/" description=""/>
+      <outline text="News | TheCollector" type="rss" xmlUrl="https://www.thecollector.com/news/rss/" htmlUrl="https://www.thecollector.com/" description=""/>
+      <outline text="Philosophy | TheCollector" type="rss" xmlUrl="https://www.thecollector.com/philosophy/rss/" htmlUrl="https://www.thecollector.com/" description=""/>
+      <outline text="Stories | TheCollector" type="rss" xmlUrl="https://www.thecollector.com/stories/rss/" htmlUrl="https://www.thecollector.com/" description=""/>
+    </outline>
     <outline text="The Conversation">
       <outline text="Arts + Culture – The Conversation" type="rss" xmlUrl="https://theconversation.com/us/arts/articles.atom" htmlUrl="https://theconversation.com/" description=""/>
       <outline text="Economy – The Conversation" type="rss" xmlUrl="https://theconversation.com/us/business/articles.atom" htmlUrl="https://theconversation.com/" description=""/>
@@ -425,17 +574,17 @@
       <outline text="The Conversation – Articles (US)" type="rss" xmlUrl="https://theconversation.com/us/articles.atom" htmlUrl="https://theconversation.com/" description=""/>
     </outline>
     <outline text="The Marshall Project">
-      <outline text="The Marshall Project" type="rss" xmlUrl="https://www.themarshallproject.org/rss/recent.rss" htmlUrl="https://www.themarshallproject.org/" description="The Marshall Project is a nonprofit, nonpartisan news organization covering America's criminal justice system."/>
+      <outline text="The Marshall Project" type="rss" xmlUrl="https://www.themarshallproject.org/rss/recent.rss" htmlUrl="https://www.themarshallproject.org/" description=""/>
     </outline>
     <outline text="The New Yorker">
-      <outline text="Books Coverage: Essays and Criticism | The New Yorker" type="rss" xmlUrl="https://www.newyorker.com/feed/tag/books/rss" htmlUrl="https://www.newyorker.com/" description="A collection of the best writing on books by New Yorker writers and critics."/>
-      <outline text="Culture: TV, Movies, Music, Art, and Theatre News and Reviews | The New Yorker" type="rss" xmlUrl="https://www.newyorker.com/feed/culture" htmlUrl="https://www.newyorker.com/" description="Cultural news and criticism, and conversations about TV, theatre, movies, and music, as well as Goings On About Town listings from The New Yorker."/>
-      <outline text="Everything" type="rss" xmlUrl="https://www.newyorker.com/feed/everything" htmlUrl="https://www.newyorker.com/" description="Channel Description"/>
-      <outline text="Humor, Satire, and Cartoons | The New Yorker" type="rss" xmlUrl="https://www.newyorker.com/feed/humor" htmlUrl="https://www.newyorker.com/" description="Humor from The New Yorker, including news satire by Andy Borowitz, funny cartoons and comics, Daily Shouts, and Shouts &amp; Murmurs."/>
-      <outline text="Magazine | The New Yorker" type="rss" xmlUrl="https://www.newyorker.com/feed/magazine/rss" htmlUrl="https://www.newyorker.com/" description="Ava Kofman on penis enlargement, Peter Hessler on elementary schooling in China, Elizabeth Kolbert on the plastics plague, and more."/>
-      <outline text="News, Politics, Opinion, Commentary, and Analysis | The New Yorker" type="rss" xmlUrl="https://www.newyorker.com/feed/news" htmlUrl="https://www.newyorker.com/" description="In-depth reporting, commentary on breaking news, political analysis, and opinion from The New Yorker."/>
-      <outline text="News and Analysis from the Worlds of Business, Science, and Tech | The New Yorker" type="rss" xmlUrl="https://www.newyorker.com/feed/tech" htmlUrl="https://www.newyorker.com/" description="Analysis of the latest news in business, economics, science, and technology from The New Yorker."/>
-      <outline text="The Sporting Scene: Sports News and Analysis | The New Yorker" type="rss" xmlUrl="https://www.newyorker.com/feed/news/sporting-scene" htmlUrl="https://www.newyorker.com/" description="Dispatches from the world of sports—football, baseball, basketball, hockey, boxing, and more—from The New Yorker."/>
+      <outline text="Books Coverage: Essays and Criticism | The New Yorker" type="rss" xmlUrl="https://www.newyorker.com/feed/tag/books/rss" htmlUrl="https://www.newyorker.com/" description=""/>
+      <outline text="Culture: TV, Movies, Music, Art, and Theatre News and Reviews | The New Yorker" type="rss" xmlUrl="https://www.newyorker.com/feed/culture" htmlUrl="https://www.newyorker.com/" description=""/>
+      <outline text="Everything" type="rss" xmlUrl="https://www.newyorker.com/feed/everything" htmlUrl="https://www.newyorker.com/" description=""/>
+      <outline text="Humor, Satire, and Cartoons | The New Yorker" type="rss" xmlUrl="https://www.newyorker.com/feed/humor" htmlUrl="https://www.newyorker.com/" description=""/>
+      <outline text="Magazine | The New Yorker" type="rss" xmlUrl="https://www.newyorker.com/feed/magazine/rss" htmlUrl="https://www.newyorker.com/" description=""/>
+      <outline text="News, Politics, Opinion, Commentary, and Analysis | The New Yorker" type="rss" xmlUrl="https://www.newyorker.com/feed/news" htmlUrl="https://www.newyorker.com/" description=""/>
+      <outline text="News and Analysis from the Worlds of Business, Science, and Tech | The New Yorker" type="rss" xmlUrl="https://www.newyorker.com/feed/tech" htmlUrl="https://www.newyorker.com/" description=""/>
+      <outline text="The Sporting Scene: Sports News and Analysis | The New Yorker" type="rss" xmlUrl="https://www.newyorker.com/feed/news/sporting-scene" htmlUrl="https://www.newyorker.com/" description=""/>
     </outline>
     <outline text="The Verge">
       <outline text="The Verge -  Apple Posts" type="rss" xmlUrl="https://www.theverge.com/apple/rss/index.xml" htmlUrl="https://www.theverge.com/apple" description=""/>
@@ -468,34 +617,49 @@
       <outline text="The Verge -  YouTubes" type="rss" xmlUrl="https://www.theverge.com/rss/youtube/index.xml" htmlUrl="https://www.theverge.com/youtube" description=""/>
     </outline>
     <outline text="Universe Today">
-      <outline text="Astronomy Archives - Universe Today" type="rss" xmlUrl="https://www.universetoday.com/category/astronomy/feed/" htmlUrl="https://www.universetoday.com/category/astronomy/" description="Space and astronomy news"/>
-      <outline text="Black Holes Archives - Universe Today" type="rss" xmlUrl="https://www.universetoday.com/category/black-holes/feed/" htmlUrl="https://www.universetoday.com/category/black-holes/" description="Space and astronomy news"/>
-      <outline text="Earth Archives - Universe Today" type="rss" xmlUrl="https://www.universetoday.com/category/earth/feed/" htmlUrl="https://www.universetoday.com/category/earth/" description="Space and astronomy news"/>
-      <outline text="Environment Archives - Universe Today" type="rss" xmlUrl="https://www.universetoday.com/category/environment/feed/" htmlUrl="https://www.universetoday.com/category/environment/" description="Space and astronomy news"/>
-      <outline text="International Space Station Archives - Universe Today" type="rss" xmlUrl="https://www.universetoday.com/category/international-space-station/feed/" htmlUrl="https://www.universetoday.com/category/international-space-station/" description="Space and astronomy news"/>
-      <outline text="NASA Archives - Universe Today" type="rss" xmlUrl="https://www.universetoday.com/category/nasa/feed/" htmlUrl="https://www.universetoday.com/category/nasa/" description="Space and astronomy news"/>
-      <outline text="Technology Archives - Universe Today" type="rss" xmlUrl="https://www.universetoday.com/category/technology/feed/" htmlUrl="https://www.universetoday.com/category/technology/" description="Space and astronomy news"/>
-      <outline text="Universe Today" type="rss" xmlUrl="https://www.universetoday.com/feed" htmlUrl="https://www.universetoday.com/" description="Space and astronomy news"/>
+      <outline text="Astronomy Archives - Universe Today" type="rss" xmlUrl="https://www.universetoday.com/category/astronomy/feed/" htmlUrl="https://www.universetoday.com/category/astronomy/" description=""/>
+      <outline text="Black Holes Archives - Universe Today" type="rss" xmlUrl="https://www.universetoday.com/category/black-holes/feed/" htmlUrl="https://www.universetoday.com/category/black-holes/" description=""/>
+      <outline text="Earth Archives - Universe Today" type="rss" xmlUrl="https://www.universetoday.com/category/earth/feed/" htmlUrl="https://www.universetoday.com/category/earth/" description=""/>
+      <outline text="Environment Archives - Universe Today" type="rss" xmlUrl="https://www.universetoday.com/category/environment/feed/" htmlUrl="https://www.universetoday.com/category/environment/" description=""/>
+      <outline text="International Space Station Archives - Universe Today" type="rss" xmlUrl="https://www.universetoday.com/category/international-space-station/feed/" htmlUrl="https://www.universetoday.com/category/international-space-station/" description=""/>
+      <outline text="NASA Archives - Universe Today" type="rss" xmlUrl="https://www.universetoday.com/category/nasa/feed/" htmlUrl="https://www.universetoday.com/category/nasa/" description=""/>
+      <outline text="Technology Archives - Universe Today" type="rss" xmlUrl="https://www.universetoday.com/category/technology/feed/" htmlUrl="https://www.universetoday.com/category/technology/" description=""/>
+      <outline text="Universe Today" type="rss" xmlUrl="https://www.universetoday.com/feed/" htmlUrl="https://www.universetoday.com/" description=""/>
+    </outline>
+    <outline text="Washington Post">
+      <outline text="Business | Washington Post" type="rss" xmlUrl="https://feeds.washingtonpost.com/rss/business" htmlUrl="https://www.washingtonpost.com/" description=""/>
+      <outline text="Climate | Washington Post" type="rss" xmlUrl="https://www.washingtonpost.com/arcio/rss/category/climate-environment/" htmlUrl="https://www.washingtonpost.com/" description=""/>
+      <outline text="Entertainment | Washington Post" type="rss" xmlUrl="https://feeds.washingtonpost.com/rss/entertainment" htmlUrl="https://www.washingtonpost.com/" description=""/>
+      <outline text="Lifestyle | Washington Post" type="rss" xmlUrl="https://www.washingtonpost.com/arcio/rss/category/lifestyle/" htmlUrl="https://www.washingtonpost.com/" description=""/>
+      <outline text="Local | Washington Post" type="rss" xmlUrl="https://feeds.washingtonpost.com/rss/local" htmlUrl="https://www.washingtonpost.com/" description=""/>
+      <outline text="National | Washington Post" type="rss" xmlUrl="https://feeds.washingtonpost.com/rss/national" htmlUrl="https://www.washingtonpost.com/" description=""/>
+      <outline text="Opinions | Washington Post" type="rss" xmlUrl="https://www.washingtonpost.com/arcio/rss/category/opinions/" htmlUrl="https://www.washingtonpost.com/" description=""/>
+      <outline text="Politics | Washington Post" type="rss" xmlUrl="https://www.washingtonpost.com/arcio/rss/category/politics/" htmlUrl="https://www.washingtonpost.com/" description=""/>
+      <outline text="Science | Washington Post" type="rss" xmlUrl="https://www.washingtonpost.com/arcio/rss/category/science/" htmlUrl="https://www.washingtonpost.com/" description=""/>
+      <outline text="Sports | Washington Post" type="rss" xmlUrl="https://www.washingtonpost.com/arcio/rss/category/sports/" htmlUrl="https://www.washingtonpost.com/" description=""/>
+      <outline text="Technology | Washington Post" type="rss" xmlUrl="https://www.washingtonpost.com/arcio/rss/category/technology/" htmlUrl="https://www.washingtonpost.com/" description=""/>
+      <outline text="Well-being | Washington Post" type="rss" xmlUrl="https://www.washingtonpost.com/arcio/rss/category/wellbeing/" htmlUrl="https://www.washingtonpost.com/" description=""/>
+      <outline text="World | Washington Post" type="rss" xmlUrl="https://www.washingtonpost.com/arcio/rss/category/world/" htmlUrl="https://www.washingtonpost.com/" description=""/>
     </outline>
     <outline text="We Distribute">
-      <outline text="Culture – We Distribute" type="rss" xmlUrl="https://wedistribute.org/category/culture/feed/" htmlUrl="https://wedistribute.org/" description="Connecting many threads in the federated web"/>
-      <outline text="Guides – We Distribute" type="rss" xmlUrl="https://wedistribute.org/category/guides/feed/" htmlUrl="https://wedistribute.org/" description="Connecting many threads in the federated web"/>
-      <outline text="Interviews – We Distribute" type="rss" xmlUrl="https://wedistribute.org/category/interviews/feed/" htmlUrl="https://wedistribute.org/" description="Connecting many threads in the federated web"/>
-      <outline text="News – We Distribute" type="rss" xmlUrl="https://wedistribute.org/category/news/feed/" htmlUrl="https://wedistribute.org/" description="Connecting many threads in the federated web"/>
-      <outline text="Opinion – We Distribute" type="rss" xmlUrl="https://wedistribute.org/category/opinion/feed/" htmlUrl="https://wedistribute.org/" description="Connecting many threads in the federated web"/>
-      <outline text="Reviews – We Distribute" type="rss" xmlUrl="https://wedistribute.org/category/reviews/feed/" htmlUrl="https://wedistribute.org/" description="Connecting many threads in the federated web"/>
-      <outline text="We Distribute" type="rss" xmlUrl="https://wedistribute.org/feed/" htmlUrl="https://wedistribute.org/" description="Connecting many threads in the federated web"/>
+      <outline text="Culture – We Distribute" type="rss" xmlUrl="https://wedistribute.org/category/culture/feed/" htmlUrl="https://wedistribute.org/" description=""/>
+      <outline text="Guides – We Distribute" type="rss" xmlUrl="https://wedistribute.org/category/guides/feed/" htmlUrl="https://wedistribute.org/" description=""/>
+      <outline text="Interviews – We Distribute" type="rss" xmlUrl="https://wedistribute.org/category/interviews/feed/" htmlUrl="https://wedistribute.org/" description=""/>
+      <outline text="News – We Distribute" type="rss" xmlUrl="https://wedistribute.org/category/news/feed/" htmlUrl="https://wedistribute.org/" description=""/>
+      <outline text="Opinion – We Distribute" type="rss" xmlUrl="https://wedistribute.org/category/opinion/feed/" htmlUrl="https://wedistribute.org/" description=""/>
+      <outline text="Reviews – We Distribute" type="rss" xmlUrl="https://wedistribute.org/category/reviews/feed/" htmlUrl="https://wedistribute.org/" description=""/>
+      <outline text="We Distribute" type="rss" xmlUrl="https://wedistribute.org/feed/" htmlUrl="https://wedistribute.org/" description=""/>
     </outline>
     <outline text="Wired">
-      <outline text="Backchannel Latest" type="rss" xmlUrl="https://www.wired.com/feed/category/backchannel/latest/rss" htmlUrl="https://www.wired.com/" description="Channel Description"/>
-      <outline text="Business Latest" type="rss" xmlUrl="https://www.wired.com/feed/category/business/latest/rss" htmlUrl="https://www.wired.com/" description="Channel Description"/>
-      <outline text="Culture Latest" type="rss" xmlUrl="https://www.wired.com/feed/category/culture/latest/rss" htmlUrl="https://www.wired.com/" description="Channel Description"/>
-      <outline text="Feed: Artificial Intelligence Latest" type="rss" xmlUrl="https://www.wired.com/feed/tag/ai/latest/rss" htmlUrl="https://www.wired.com/" description="Channel Description"/>
-      <outline text="Gear Latest" type="rss" xmlUrl="https://www.wired.com/feed/category/gear/latest/rss" htmlUrl="https://www.wired.com/" description="Channel Description"/>
-      <outline text="Ideas Latest" type="rss" xmlUrl="https://www.wired.com/feed/category/ideas/latest/rss" htmlUrl="https://www.wired.com/" description="Channel Description"/>
-      <outline text="Science Latest" type="rss" xmlUrl="https://www.wired.com/feed/category/science/latest/rss" htmlUrl="https://www.wired.com/" description="Channel Description"/>
-      <outline text="Security Latest" type="rss" xmlUrl="https://www.wired.com/feed/category/security/latest/rss" htmlUrl="https://www.wired.com/" description="Channel Description"/>
-      <outline text="WIRED Guides Latest" type="rss" xmlUrl="https://www.wired.com/feed/tag/wired-guide/latest/rss" htmlUrl="https://www.wired.com/" description="Channel Description"/>
+      <outline text="Backchannel Latest" type="rss" xmlUrl="https://www.wired.com/feed/category/backchannel/latest/rss" htmlUrl="https://www.wired.com/" description=""/>
+      <outline text="Business Latest" type="rss" xmlUrl="https://www.wired.com/feed/category/business/latest/rss" htmlUrl="https://www.wired.com/" description=""/>
+      <outline text="Culture Latest" type="rss" xmlUrl="https://www.wired.com/feed/category/culture/latest/rss" htmlUrl="https://www.wired.com/" description=""/>
+      <outline text="Feed: Artificial Intelligence Latest" type="rss" xmlUrl="https://www.wired.com/feed/tag/ai/latest/rss" htmlUrl="https://www.wired.com/" description=""/>
+      <outline text="Gear Latest" type="rss" xmlUrl="https://www.wired.com/feed/category/gear/latest/rss" htmlUrl="https://www.wired.com/" description=""/>
+      <outline text="Ideas Latest" type="rss" xmlUrl="https://www.wired.com/feed/category/ideas/latest/rss" htmlUrl="https://www.wired.com/" description=""/>
+      <outline text="Science Latest" type="rss" xmlUrl="https://www.wired.com/feed/category/science/latest/rss" htmlUrl="https://www.wired.com/" description=""/>
+      <outline text="Security Latest" type="rss" xmlUrl="https://www.wired.com/feed/category/security/latest/rss" htmlUrl="https://www.wired.com/" description=""/>
+      <outline text="WIRED Guides Latest" type="rss" xmlUrl="https://www.wired.com/feed/tag/wired-guide/latest/rss" htmlUrl="https://www.wired.com/" description=""/>
     </outline>
   </body>
 </opml>
